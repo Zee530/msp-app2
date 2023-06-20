@@ -2,6 +2,7 @@ import {
   Box,
   Button,
   Center,
+  Container,
   Link,
   List,
   ListItem,
@@ -14,17 +15,19 @@ function App() {
     background: "inherit",
   };
   return (
-    <>
-      <Center>
-        <Text
-          bgGradient="linear(to-r, green, red)"
-          bgClip="text"
-          fontSize="4xl"
-          fontWeight="bold"
-        >
-          MAL SCORE PROGRESSIONS
-        </Text>
-      </Center>
+    <Container maxW="container.xl">
+      {/* <Center> */}
+      <Text
+        // bgGradient="linear(to-r, green, red)"
+        // bgClip="text"
+        fontSize="4xl"
+        fontWeight="normal"
+        // color='white'
+        fontFamily="ultra, sans-serif"
+      >
+        MAL Score Progressions
+      </Text>
+      {/* </Center> */}
       <Box bgColor="#2e51a2">
         <Center>
           <List display="flex" justifyContent="space-around" w="50%">
@@ -51,7 +54,7 @@ function App() {
           </List>
         </Center>
       </Box>
-    </>
+    </Container>
   );
 }
 
