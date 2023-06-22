@@ -10,10 +10,13 @@ import {
 } from "@chakra-ui/react";
 
 function App() {
-  const buttonStyle = {
+  const buttonStyle:React.CSSProperties = {
     color: "white",
     background: "inherit",
   };
+
+  const seasons:string[] = ['WINTER', 'SPRING', 'SUMMER', 'FALL']
+
   return (
     <Container maxW="container.xl">
       {/* <Center> */}
@@ -31,26 +34,13 @@ function App() {
       <Box bgColor="#2e51a2">
         <Center>
           <List display="flex" justifyContent="space-around" w="50%">
-            <Link>
+            {seasons.map((season) => 
+              <Link>
               <ListItem>
-                <Button style={buttonStyle}>WINTER</Button>
+                <Button style={buttonStyle}>{season}</Button>
               </ListItem>
-            </Link>
-            <Link>
-              <ListItem>
-                <Button style={buttonStyle}>SPRING</Button>
-              </ListItem>
-            </Link>
-            <Link>
-              <ListItem>
-                <Button style={buttonStyle}>SUMMER</Button>
-              </ListItem>
-            </Link>
-            <Link>
-              <ListItem>
-                <Button style={buttonStyle}>FALL</Button>
-              </ListItem>
-            </Link>
+            </Link>  
+            )}
           </List>
         </Center>
       </Box>
