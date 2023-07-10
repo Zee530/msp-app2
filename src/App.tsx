@@ -9,8 +9,15 @@ import {
   Select,
   Text,
 } from "@chakra-ui/react";
+import React from "react";
 
 function App() {
+  const [anime, setAnime] = React.useState('')
+
+  const handleChange = (e:React.ChangeEvent<HTMLSelectElement>) => {
+    setAnime(e.target.value)
+  }
+
   const buttonStyle:React.CSSProperties = {
     color: "white",
     background: "inherit",
@@ -26,6 +33,15 @@ function App() {
   }
 
   const seasons:string[] = ['WINTER', 'SPRING', 'SUMMER', 'FALL']
+
+
+  function compute() {
+    if (anime === '') {
+      alert('Select an anime below')
+    } else {
+      alert(`You have clicked on ${anime}`)
+    }
+  }
 
   return (
     <Container maxW="container.xl">
@@ -51,14 +67,14 @@ function App() {
       </Box>
       <Box mt={100}>
         <Center>
-        <Select size='lg' w='70%' placeholder="Select Anime">
-          <option>Anime 1</option>
-          <option>Anime 2</option>
-          <option>Anime 3</option>
+        <Select size='lg' w='70%' placeholder="Select Anime" color='grey' value={anime} onChange={handleChange}>
+          <option value='anime1'>Anime 1</option>
+          <option value='anime2'>Anime 2</option>
+          <option value='anime3'>Anime 3</option>
         </Select>
         </Center>
         <Center>
-            <Button style={computeButton}>COMPUTE</Button>
+            <Button style={computeButton} onClick={compute}>COMPUTE</Button>
         </Center>
       </Box>
     </Container>
