@@ -12,6 +12,7 @@ import {
   Textarea,
 } from "@chakra-ui/react";
 import React from "react";
+import titles from "./shows";
 
 function App() {
   const [anime, setAnime] = React.useState("");
@@ -44,7 +45,7 @@ function App() {
     if (anime === "") {
       alert("Select an anime below");
     } else {
-      alert(`You have clicked on ${anime}`);
+      alert(`You have selected ${anime}`);
     }
   }
 
@@ -79,9 +80,12 @@ function App() {
               value={anime}
               onChange={selecthandleChange}
             >
-              <option value="anime1">Title 1</option>
+              {titles.map(( title, index) => {
+                return <option key={index} value={title.score}>{title.title}</option>
+              })}
+              {/* <option value="anime1">Title 1</option>
               <option value="anime2">Title 2</option>
-              <option value="anime3">Title 3</option>
+              <option value="anime3">Title 3</option> */}
             </Select>
           </Center>
           <Center>
@@ -94,6 +98,7 @@ function App() {
           <Center>
           <Textarea
             value={threadData}
+            // value = {titles[0].members}
             onChange={textareahandleChange}
             placeholder="Data will be displayed here"
             w='50%'

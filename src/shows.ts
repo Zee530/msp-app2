@@ -4,7 +4,7 @@ type Show = {
     members: number
 }
 
-const animes: Show[] = [{
+const titles: Show[] = [{
     title: 'Naruto',
     score: 7.98,
     members: 1235795
@@ -19,3 +19,5 @@ const animes: Show[] = [{
     score: 8.44,
     members: 1085234
 },] 
+
+export default titles
