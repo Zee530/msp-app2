@@ -15,12 +15,13 @@ import React from "react";
 import titles, { Show } from "./shows";
 
 function App() {
-  const [anime, setAnime] = React.useState("");
-  const [threadData, setThreadData] = React.useState("");
+  // const [anime, setAnime] = React.useState("");
+  // const [threadData, setThreadData] = React.useState("");
   const [selectedTitle, setSelectedTitle] = React.useState<Show | null>(null)
 
   const selecthandleChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
-    setAnime(e.target.value);
+    const title = titles.find(t => t.title === e.target.value)
+    setSelectedTitle(title ? title : null)
   };
 
   // const textareahandleChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
@@ -42,14 +43,14 @@ function App() {
 
   const seasons: string[] = ["WINTER", "SPRING", "SUMMER", "FALL"];
 
-  function compute() {
-    if (anime === "") {
-      alert("Select an anime below");
-    } else {
-      // setArrayValue()
-      setThreadData(`${titles[0].title} - ${titles[0].score}, ${titles[0].members}`)
-    }
-  }
+  // function compute() {
+  //   if (anime === "") {
+  //     alert("Select an anime below");
+  //   } else {
+  //     // setArrayValue()
+  //     setThreadData(`${titles[0].title} - ${titles[0].score}, ${titles[0].members}`)
+  //   }
+  // }
 
   return (
     <Container maxW="container.xl">
@@ -79,32 +80,35 @@ function App() {
               w="70%"
               placeholder="Select Title"
               color="grey"
-              value={anime}
+              value=""
               onChange={selecthandleChange}
             >
-              {titles.map(( title, index) => {
-                return <option key={index} value={title.score}>{title.title}</option>
-              })}
+              {titles.map((title, index) => (
+                <option key={index} value={title.title}>{title.title}</option>
+              ))}
               {/* <option value="anime1">Title 1</option>
               <option value="anime2">Title 2</option>
               <option value="anime3">Title 3</option> */}
             </Select>
           </Center>
-          <Center>
+          {/* <Center>
             <Button style={computeButton} onClick={compute}>
               COMPUTE
             </Button>
-          </Center>
+          </Center> */}
         </Box>
         <Box>
           <Center>
+            {selectedTitle && (
           <Textarea
-            value={threadData}
+            value={`Week 01 - ${selectedTitle.score}, ${selectedTitle.members}`}
             // value = {titles[0].members}
             // onChange={textareahandleChange}
             placeholder="Data will be displayed here"
             w='50%'
+            readOnly
           />
+            )}
           </Center>
         </Box>
       </Stack>
