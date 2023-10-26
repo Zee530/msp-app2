@@ -12,19 +12,20 @@ import {
   Textarea,
 } from "@chakra-ui/react";
 import React from "react";
-import titles from "./shows";
+import titles, { Show } from "./shows";
 
 function App() {
   const [anime, setAnime] = React.useState("");
   const [threadData, setThreadData] = React.useState("");
+  const [selectedTitle, setSelectedTitle] = React.useState<Show | null>(null)
 
   const selecthandleChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
     setAnime(e.target.value);
   };
 
-  const textareahandleChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
-    setThreadData(e.target.value);
-  };
+  // const textareahandleChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
+  //   setThreadData(e.target.value);
+  // };
   const buttonStyle: React.CSSProperties = {
     color: "white",
     background: "inherit",
@@ -45,7 +46,8 @@ function App() {
     if (anime === "") {
       alert("Select an anime below");
     } else {
-      alert(`You have selected ${anime}`);
+      // setArrayValue()
+      setThreadData(`${titles[0].title} - ${titles[0].score}, ${titles[0].members}`)
     }
   }
 
@@ -99,7 +101,7 @@ function App() {
           <Textarea
             value={threadData}
             // value = {titles[0].members}
-            onChange={textareahandleChange}
+            // onChange={textareahandleChange}
             placeholder="Data will be displayed here"
             w='50%'
           />

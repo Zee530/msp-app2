@@ -1,4 +1,4 @@
-type Show = {
+export type Show = {
     title: string,
     score: number,
     members: number
