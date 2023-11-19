@@ -46,10 +46,11 @@ function App() {
 
   function compute() {
     if (selectedTitle === null) {
+      setTextareaContent("")
       alert("Select an anime below");
     } else {
       // setArrayValue()
-      setTextareaContent(`Week 01 - ${selectedTitle?.score}, ${selectedTitle?.members} Members`)
+      setTextareaContent(`Week 01 - ${selectedTitle.score}, ${selectedTitle.members} Members`)
     }
   }
 
