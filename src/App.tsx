@@ -98,11 +98,11 @@ function App() {
               <option value="anime3">Title 3</option> */}
             </Select>
           </Center>
-          {/* <Center>
+          <Center>
             <Button style={computeButton} onClick={compute}>
               COMPUTE
             </Button>
-          </Center> */}
+          </Center>
         </Box>
         <Box>
           <Center>
