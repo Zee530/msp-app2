@@ -1,0 +1,14 @@
+request: 
+    curl --request GET \
+   --url https://api.myanimelist.net/v2/anime/53410?fields=id,title,mean,num_list_users,media_type,status,num_episodes,start_season
+  --header 'X-MAL-CLIENT-ID: 8bda3d8bbc449e438a88d199e19423d4'
+
+seasonal:
+  curl --request GET \
+   --url https://api.myanimelist.net/v2/anime/season/2024/summer?fields=id,title,mean,num_list_users,media_type,status,num_episodes,start_season&limit=500&sort=num_list_users&nsfw=true \
+   --header 'X-MAL-CLIENT-ID: 8bda3d8bbc449e438a88d199e19423d4'
+
+manga:
+   curl --request GET \
+   --url https://api.myanimelist.net/v2/manga/121885?fields=id,title,mean,num_list_users,media_type,status
+  --header 'X-MAL-CLIENT-ID: 8bda3d8bbc449e438a88d199e19423d4'

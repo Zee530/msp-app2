@@ -20,6 +20,9 @@ function App() {
   const [selectedTitle, setSelectedTitle] = React.useState<Show | null>(null);
   const [textareaContent, setTextareaContent] = React.useState('')
 
+  const [data, setData] = React.useState(null)
+  const [error, setError] = React.useState(null)
+
   const selecthandleChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
     const title = titles.find(t => t.title === e.target.value);
     setSelectedTitle(title ? title : null);
@@ -44,14 +47,40 @@ function App() {
 
   const seasons: string[] = ["WINTER", "SPRING", "SUMMER", "FALL"];
 
-  function compute() {
-    if (selectedTitle === null) {
-      setTextareaContent("")
-      alert("Select an anime below");
-    } else {
-      // setArrayValue()
-      setTextareaContent(`Week 01 - ${selectedTitle.score}, ${selectedTitle.members} Members`)
-    }
+  // function compute() {
+  //   if (selectedTitle === null) {
+  //     setTextareaContent("")
+  //     alert("Select an anime below");
+  //   } else {
+  //     // setArrayValue()
+  //     setTextareaContent(`Week 01 - ${selectedTitle.score}, ${selectedTitle.members} Members`)
+  //   }
+  // }
+
+  const handleClick = () => {
+    fetch('https://api.myanimelist.net/v2/anime/53410')
+      .then(response => {
+        if (!response.ok) {
+          throw new Error('There was an Error')
+        }
+        return response.json()
+      })
+      .then(jsonData => {
+        setData(jsonData)
+        setError(null)
+      })
+      .catch(error => {
+        setError(error.message)
+        setData(null)
+      })
+      // if (error) {
+      //   alert('There was an Error')
+      // } else {
+      //   alert(data)
+      // }
+      // alert(data)
+      console.log(data)
+      console.log(error)
   }
 
   return (
@@ -99,7 +128,7 @@ function App() {
             </Select>
           </Center>
           <Center>
-            <Button style={computeButton} onClick={compute}>
+            <Button style={computeButton} onClick={handleClick}>
               COMPUTE
             </Button>
           </Center>
