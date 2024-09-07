@@ -1,4 +1,5 @@
 import {
+  Alert,
   Box,
   Button,
   Center,
@@ -14,14 +15,20 @@ import {
 import React from "react";
 import titles, { Show } from "./shows";
 
+interface AnimeData {
+  id?: number,
+  title? : string,
+  mean? : number
+}
+
 function App() {
   // const [anime, setAnime] = React.useState("");
   // const [threadData, setThreadData] = React.useState("");
   const [selectedTitle, setSelectedTitle] = React.useState<Show | null>(null);
-  const [textareaContent, setTextareaContent] = React.useState('')
+  // const [textareaContent, setTextareaContent] = React.useState('')
 
-  const [data, setData] = React.useState(null)
-  const [error, setError] = React.useState(null)
+  const [data, setData] = React.useState<string | null>(null)
+  const [error, setError] = React.useState<string | null>(null)
 
   const selecthandleChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
     const title = titles.find(t => t.title === e.target.value);
@@ -57,8 +64,20 @@ function App() {
   //   }
   // }
 
-  const handleClick = () => {
-    fetch('https://api.myanimelist.net/v2/anime/53410')
+  const fetchAnimeData = () => {
+    setData(null)
+    setError(null)
+
+    const url = 'https://api.myanimelist.net/v2/anime/53410'
+    const params = new URLSearchParams({
+      fields: 'id,title,mean,'
+    })
+    fetch(url + '?' + params.toString(), {
+      method: 'GET',
+      headers: {
+        'X-MAL-CLIENT-ID': '8bda3d8bbc449e438a88d199e19423d4',
+      }
+    })
       .then(response => {
         if (!response.ok) {
           throw new Error('There was an Error')
@@ -79,8 +98,16 @@ function App() {
       //   alert(data)
       // }
       // alert(data)
-      console.log(data)
-      console.log(error)
+      // console.log(data)
+      // console.log(error)
+  }
+
+  const displayResult = () => {
+    if (error) {
+      return error
+    } else if (data) {
+      return data
+    } 
   }
 
   return (
@@ -128,10 +155,19 @@ function App() {
             </Select>
           </Center>
           <Center>
-            <Button style={computeButton} onClick={handleClick}>
+            <Button style={computeButton} onClick={fetchAnimeData}>
               COMPUTE
             </Button>
           </Center>
+          {/* <Center>
+              {error ? (
+            <p>Error: {error}</p>
+          ) : data ? (
+            <pre>{JSON.stringify(data, null, 2)}</pre>
+          ) : (
+            <p>No data fetched yet.</p>
+          )}
+          </Center> */}
         </Box>
         <Box>
           <Center>
@@ -146,7 +182,7 @@ function App() {
               />
             )} */}
             <Textarea 
-              value={textareaContent} 
+              value={displayResult()} 
               placeholder="Data will be displayed here"
               w="50%"
               readOnly/>
