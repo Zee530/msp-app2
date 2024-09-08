@@ -64,33 +64,35 @@ function App() {
   //   }
   // }
 
-  const fetchAnimeData = () => {
+  const fetchAnimeData = async() => {
     setData(null)
     setError(null)
 
-    const url = 'https://api.myanimelist.net/v2/anime/53410'
+    const url = '/api/mal/anime/53410'
     const params = new URLSearchParams({
       fields: 'id,title,mean,'
     })
-    fetch(url + '?' + params.toString(), {
-      method: 'GET',
-      headers: {
-        'X-MAL-CLIENT-ID': '8bda3d8bbc449e438a88d199e19423d4',
-      }
-    })
+    // const response = await
+     fetch(url + '?' + params.toString())
+    // console.log(await response)
+    
       .then(response => {
+        console.log('Status Code:', response.status);
+        console.log('Raw Response Body:', response.body);
         if (!response.ok) {
-          throw new Error('There was an Error')
+          throw new Error(`Error Code: ${response.status}`)
         }
         return response.json()
       })
-      .then(jsonData => {
-        setData(jsonData)
+      .then(data => {
+        setData(data)
         setError(null)
+        console.log(data)
       })
       .catch(error => {
         setError(error.message)
         setData(null)
+        console.error('Error: ', error)
       })
       // if (error) {
       //   alert('There was an Error')
@@ -107,7 +109,7 @@ function App() {
       return error
     } else if (data) {
       return data
-    } 
+    }
   }
 
   return (
