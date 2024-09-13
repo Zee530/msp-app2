@@ -1,3 +1,3 @@
 curl --request GET \
-   --url https://api.myanimelist.net/v2/anime/53410?fields=id,title,mean
-  --header 'X-MAL-CLIENT-ID: 8bda3d8bbc449e438a88d199e19423d4'
+   --url https://api.myanimelist.net/v2/anime/52991
+   --header 'X-MAL-CLIENT-ID: 8bda3d8bbc449e438a88d199e19423d4'

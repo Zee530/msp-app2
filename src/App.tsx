@@ -68,17 +68,19 @@ function App() {
     setData(null)
     setError(null)
 
-    const url = '/api/mal/anime/53410'
+    const url = new URL('/api/mal/anime/52991', 'http://localhost:3001')
     const params = new URLSearchParams({
-      fields: 'id,title,mean,'
+      // fields: '=,id,title,mean,num_list_users'
     })
     // const response = await
-     fetch(url + '?' + params.toString())
+     fetch(url 
+      // + '?' + params.toString()
+    )
     // console.log(await response)
     
       .then(response => {
         console.log('Status Code:', response.status);
-        console.log('Raw Response Body:', response.body);
+        console.log('Response: ', response);
         if (!response.ok) {
           throw new Error(`Error Code: ${response.status}`)
         }
@@ -87,12 +89,13 @@ function App() {
       .then(data => {
         setData(data)
         setError(null)
-        console.log(data)
+        console.log('Data: ', data)
       })
       .catch(error => {
         setError(error.message)
         setData(null)
         console.error('Error: ', error)
+        // console.log(data)
       })
       // if (error) {
       //   alert('There was an Error')

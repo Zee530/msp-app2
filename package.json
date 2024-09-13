@@ -2,6 +2,7 @@
   "name": "msp-app2",
   "private": true,
   "version": "0.0.0",
+  "proxy": "http://localhost:3001",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -29,7 +30,7 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.3.4",
     "typescript": "^5.0.2",
-    "vite": "^4.3.9"
-  },
-  "proxy": "http://localhost:5175"
+    "vite": "^4.3.9",
+    "proxy": "http://localhost:3001"
+  }
 }
