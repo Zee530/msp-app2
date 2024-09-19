@@ -21,13 +21,19 @@ interface AnimeData {
   mean? : number
 }
 
+// interface DisplayResultProps {
+//   error?: string | null,
+//   data?: {id: number, title: string}
+// }
+type DisplayResultFunction = () => string | undefined
+
 function App() {
   // const [anime, setAnime] = React.useState("");
   // const [threadData, setThreadData] = React.useState("");
   const [selectedTitle, setSelectedTitle] = React.useState<Show | null>(null);
   // const [textareaContent, setTextareaContent] = React.useState('')
 
-  const [data, setData] = React.useState<string | null>(null)
+  const [data, setData] = React.useState<AnimeData | null>(null)
   const [error, setError] = React.useState<string | null>(null)
 
   const selecthandleChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
@@ -70,11 +76,10 @@ function App() {
 
     const url = new URL('/api/mal/anime/52991', 'http://localhost:3001')
     const params = new URLSearchParams({
-      // fields: '=,id,title,mean,num_list_users'
+      fields: 'id,title,mean,num_list_users'
     })
     // const response = await
-     fetch(url 
-      // + '?' + params.toString()
+     fetch(url + '?' + params.toString()
     )
     // console.log(await response)
     
@@ -87,9 +92,14 @@ function App() {
         return response.json()
       })
       .then(data => {
-        setData(data)
+        // setData(JSON.stringify(data, null, 2))
         setError(null)
         console.log('Data: ', data)
+        const extractedData:AnimeData = {
+          id: data.id,
+          title: data.title
+        }
+        setData(extractedData)
       })
       .catch(error => {
         setError(error.message)
@@ -107,11 +117,11 @@ function App() {
       // console.log(error)
   }
 
-  const displayResult = () => {
+  const displayResult: DisplayResultFunction = () => {
     if (error) {
-      return error
+      return `Error: ${error}`
     } else if (data) {
-      return data
+      return `ID: ${JSON.stringify(data?.id, null, 2)} Title: ${JSON.stringify(data?.title, null, 2)}`
     }
   }
 
@@ -187,7 +197,7 @@ function App() {
               />
             )} */}
             <Textarea 
-              value={displayResult()} 
+              value={displayResult()}
               placeholder="Data will be displayed here"
               w="50%"
               readOnly/>
