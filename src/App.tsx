@@ -4,6 +4,7 @@ import {
   Button,
   Center,
   Container,
+  Input,
   Link,
   List,
   ListItem,
@@ -18,7 +19,15 @@ import titles, { Show } from "./shows";
 interface AnimeData {
   id?: number,
   title? : string,
-  mean? : number
+  mean? : number,
+  num_list_users? : number,
+  media_type? : string,
+  status? : string,
+  num_episodes? : number,
+  start_season? : {
+    year? : number,
+    season: string
+  }
 }
 
 // interface DisplayResultProps {
@@ -35,11 +44,17 @@ function App() {
 
   const [data, setData] = React.useState<AnimeData | null>(null)
   const [error, setError] = React.useState<string | null>(null)
+  const [animeId, setAnimeid] = React.useState<string>('')
 
   const selecthandleChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
     const title = titles.find(t => t.title === e.target.value);
     setSelectedTitle(title ? title : null);
   };
+
+  const idChange = (event: React.ChangeEvent<HTMLInputElement>) => {
+    const inputtedID = event.target.value
+    setAnimeid(inputtedID)
+  }
 
   // const textareahandleChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
   //   setThreadData(e.target.value);
@@ -74,12 +89,13 @@ function App() {
     setData(null)
     setError(null)
 
-    const url = new URL('/api/mal/anime/52991', 'http://localhost:3001')
-    const params = new URLSearchParams({
-      fields: 'id,title,mean,num_list_users'
-    })
+    const url = new URL(`/api/mal/anime/${animeId}`, 'http://localhost:3001')
+    // const params = new URLSearchParams({
+    //   fields: 'id,title,mean,num_list_users'
+    // })
     // const response = await
-     fetch(url + '?' + params.toString()
+     fetch(url 
+      // + '?' + params.toString()
     )
     // console.log(await response)
     
@@ -97,7 +113,16 @@ function App() {
         console.log('Data: ', data)
         const extractedData:AnimeData = {
           id: data.id,
-          title: data.title
+          title: data.title,
+          mean: data.mean,
+          num_list_users: data.num_list_users,
+          media_type: data.media_type,
+          status: data.status,
+          num_episodes: data.num_episodes,
+          start_season: {
+            year: data.start_season.year,
+            season: data.start_season.season
+          }
         }
         setData(extractedData)
       })
@@ -121,7 +146,15 @@ function App() {
     if (error) {
       return `Error: ${error}`
     } else if (data) {
-      return `ID: ${JSON.stringify(data?.id, null, 2)} Title: ${JSON.stringify(data?.title, null, 2)}`
+      return `
+      ID: ${JSON.stringify(data?.id, null, 2)}  
+      Title: ${JSON.stringify(data?.title, null, 2)}  
+      Mean: ${JSON.stringify(data?.mean, null, 2)}  
+      Members: ${JSON.stringify(data?.num_list_users, null, 2)}  
+      Type: ${JSON.stringify(data?.media_type, null, 2)}  
+      Status: ${JSON.stringify(data?.status, null, 2)}  
+      Episodes: ${JSON.stringify(data?.num_episodes, null, 2)}  
+      Season: ${JSON.stringify(data?.start_season?.season, null, 2)}, ${JSON.stringify(data?.start_season?.year, null, 2)}`
     }
   }
 
@@ -152,7 +185,7 @@ function App() {
         </Stack>
         <Box>
           <Center>
-            <Select
+            {/* <Select
               size="lg"
               w="70%"
               placeholder="Select Title"
@@ -164,10 +197,15 @@ function App() {
                   {title.title}
                 </option>
               ))}
-              {/* <option value="anime1">Title 1</option>
-              <option value="anime2">Title 2</option>
-              <option value="anime3">Title 3</option> */}
-            </Select>
+            </Select> */}
+            <Input
+              size="lg"
+              w="70%"
+              placeholder="Input ID"
+              color="grey"
+              onChange={idChange}
+              value={animeId}
+            />
           </Center>
           <Center>
             <Button style={computeButton} onClick={fetchAnimeData}>
@@ -200,6 +238,7 @@ function App() {
               value={displayResult()}
               placeholder="Data will be displayed here"
               w="50%"
+              h={250}
               readOnly/>
           </Center>
         </Box>
