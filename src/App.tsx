@@ -15,6 +15,7 @@ import {
 } from "@chakra-ui/react";
 import React from "react";
 import titles, { Show } from "./shows";
+import Navbar from "./components/Navbar";
 
 interface AnimeData {
   id?: number,
@@ -59,11 +60,11 @@ function App() {
   // const textareahandleChange = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
   //   setThreadData(e.target.value);
   // };
-  const buttonStyle: React.CSSProperties = {
-    color: "white",
-    background: "inherit",
-    //To be removed when i figure out custom button theming
-  };
+  // const buttonStyle: React.CSSProperties = {
+  //   color: "white",
+  //   background: "inherit",
+  //   To be removed when i figure out custom button theming
+  // };
 
   const computeButton: React.CSSProperties = {
     top: "30px",
@@ -73,7 +74,7 @@ function App() {
     height: "50px",
   };
 
-  const seasons: string[] = ["WINTER", "SPRING", "SUMMER", "FALL"];
+  // const seasons: string[] = ["WINTER", "SPRING", "SUMMER", "FALL"];
 
   // function compute() {
   //   if (selectedTitle === null) {
@@ -169,7 +170,8 @@ function App() {
           >
             MAL Score Progressions
           </Text>
-          <Box bgColor="#2e51a2">
+          <Navbar />
+          {/* <Box bgColor="#2e51a2">
             <Center>
               <List display="flex" justifyContent="space-around" w="50%">
                 {seasons.map((season) => (
@@ -181,7 +183,7 @@ function App() {
                 ))}
               </List>
             </Center>
-          </Box>
+          </Box> */}
         </Stack>
         <Box>
           <Center>
