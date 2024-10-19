@@ -16,6 +16,8 @@ import {
 import React from "react";
 import titles, { Show } from "./shows";
 import Navbar from "./components/Navbar";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Title from "./components/Title";
 
 interface AnimeData {
   id?: number,
@@ -160,30 +162,15 @@ function App() {
   }
 
   return (
+    <Router>
+      <Routes>
+        <Route path="/" />
+      </Routes>
     <Container maxW="container.xl">
       <Stack direction="column" spacing={20}>
         <Stack spacing={0}>
-          <Text
-            fontSize="4xl"
-            fontWeight="normal"
-            fontFamily="ultra, sans-serif"
-          >
-            MAL Score Progressions
-          </Text>
+          <Title />
           <Navbar />
-          {/* <Box bgColor="#2e51a2">
-            <Center>
-              <List display="flex" justifyContent="space-around" w="50%">
-                {seasons.map((season) => (
-                  <Link>
-                    <ListItem>
-                      <Button style={buttonStyle}>{season}</Button>
-                    </ListItem>
-                  </Link>
-                ))}
-              </List>
-            </Center>
-          </Box> */}
         </Stack>
         <Box>
           <Center>
@@ -207,7 +194,7 @@ function App() {
               color="grey"
               onChange={idChange}
               value={animeId}
-            />
+              />
           </Center>
           <Center>
             <Button style={computeButton} onClick={fetchAnimeData}>
@@ -216,10 +203,10 @@ function App() {
           </Center>
           {/* <Center>
               {error ? (
-            <p>Error: {error}</p>
-          ) : data ? (
+                <p>Error: {error}</p>
+                ) : data ? (
             <pre>{JSON.stringify(data, null, 2)}</pre>
-          ) : (
+            ) : (
             <p>No data fetched yet.</p>
           )}
           </Center> */}
@@ -234,8 +221,8 @@ function App() {
                 placeholder="Data will be displayed here"
                 w="50%"
                 readOnly
-              />
-            )} */}
+                />
+                )} */}
             <Textarea 
               value={displayResult()}
               placeholder="Data will be displayed here"
@@ -246,6 +233,7 @@ function App() {
         </Box>
       </Stack>
     </Container>
+    </Router>
   );
 }
 
