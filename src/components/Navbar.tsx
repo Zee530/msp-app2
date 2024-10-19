@@ -1,8 +1,7 @@
 import { Box, Button, Center, List, ListItem } from '@chakra-ui/react'
 import React from 'react'
-import { Link, NavLink } from 'react-router-dom'
+import { NavLink } from 'react-router-dom'
 import { requestType } from '../arrays/RequestType'
-
 
 const Navbar: React.FC = () => { 
     const buttonStyle: React.CSSProperties = {
@@ -15,9 +14,9 @@ const Navbar: React.FC = () => {
             <Center>
               <List display="flex" justifyContent="space-around" w="50%">
                 {requestType.map((request) => (
-                  <NavLink to='/'>
+                  <NavLink to={request.link}>
                     <ListItem>
-                      <Button style={buttonStyle}>{request}</Button>
+                      <Button style={buttonStyle}>{request.type}</Button>
                     </ListItem>
                   </NavLink>
                 ))}
