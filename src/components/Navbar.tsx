@@ -1,14 +1,11 @@
 import { Box, Button, Center, List, ListItem } from '@chakra-ui/react'
 import React from 'react'
 import { NavLink } from 'react-router-dom'
-import { requestType } from '../arrays/RequestType'
+import { requestType } from '../core/Types'
+import { buttonStyle } from '../core/Styles'
 
 const Navbar: React.FC = () => { 
-    const buttonStyle: React.CSSProperties = {
-        color: "white",
-        background: "inherit",
-        //To be removed when i figure out custom button theming
-      };
+
   return (
     <Box bgColor="#2e51a2">
             <Center>

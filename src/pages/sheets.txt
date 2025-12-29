@@ -1,0 +1,70 @@
+This can be done, but a browser extension or Apps Script has to do the actual editing; direct control of your open tabs is not possible here.  
+
+## What you can do in Google Sheets
+
+1. In your Sheets tab, go to **Extensions → Apps Script**.  
+2. Replace any starter code with this, then adjust the sheet name and ranges if needed:
+
+```javascript
+function updateFromJson() {
+  // 1. Paste your JSON (or fetch it)
+  const json = {
+    // Replace this with the full JSON you see in Codespaces
+    "data": {
+      "node": [
+        // example:
+        // {"title": "Some title", "mean": 1.23, "num_list_users": 456}
+      ]
+    }
+  };
+
+  const nodes = json.data.node;
+  const ss = SpreadsheetApp.getActiveSpreadsheet();
+  const sheet = ss.getActiveSheet(); // or ss.getSheetByName('Sheet1')
+
+  // 2. Get all values in column A (titles)
+  const lastRow = sheet.getLastRow();
+  if (lastRow < 2) return; // nothing to do
+
+  const rangeA = sheet.getRange(2, 1, lastRow - 1, 1); // A2:A
+  const titles = rangeA.getValues().flat(); // array of strings
+
+  // 3. Index nodes by title for fast lookup
+  const map = {};
+  nodes.forEach(n => {
+    if (n && typeof n.title === 'string') {
+      map[n.title] = n;
+    }
+  });
+
+  // 4. Prepare output arrays for AU and AW
+  const auValues = [];
+  const awValues = [];
+
+  for (let i = 0; i < titles.length; i++) {
+    const t = titles[i];
+    const node = map[t];
+    if (node) {
+      auValues.push([node.mean]);            // AU
+      awValues.push([node.num_list_users]);  // AW
+    } else {
+      auValues.push([null]);
+      awValues.push([null]);
+    }
+  }
+
+  // 5. Write back to AU and AW
+  // AU = column 47, AW = column 49
+  sheet.getRange(2, 47, auValues.length, 1).setValues(auValues);
+  sheet.getRange(2, 49, awValues.length, 1).setValues(awValues);
+}
+```
+
+3. Click **Save**, then **Run → Run function → updateFromJson**, and approve permissions.  
+
+## How to “double check”
+
+- After the script runs, spot‑check a few rows:  
+  - Pick a row where column A has a value you know exists in the JSON.  
+  - Search for that title in your Codespaces JSON and confirm `mean` equals the value in **AU**, and `num_list_users` equals the value in **AW**.  
+- If any do not match, confirm the title strings match exactly (including case and whitespace).

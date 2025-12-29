@@ -174,19 +174,6 @@ function App() {
         </Stack>
         <Box>
           <Center>
-            {/* <Select
-              size="lg"
-              w="70%"
-              placeholder="Select Title"
-              color="grey"
-              onChange={selecthandleChange}
-            >
-              {titles.map((title, index) => (
-                <option key={index} value={title.title}>
-                  {title.title}
-                </option>
-              ))}
-            </Select> */}
             <Input
               size="lg"
               w="70%"
