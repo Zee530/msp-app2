@@ -5,11 +5,11 @@
         "id": 21,
         "title": "One Piece",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1244\/138851.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1244\/138851l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1244\/138851.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1244\/138851l.jpg"
         },
         "mean": 8.73,
-        "num_list_users": 2681861,
+        "num_list_users": 2685022,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -24,11 +24,11 @@
         "id": 235,
         "title": "Meitantei Conan",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/7\/75199.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/7\/75199l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/7\/75199.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/7\/75199l.jpg"
         },
         "mean": 8.19,
-        "num_list_users": 378581,
+        "num_list_users": 378881,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -43,11 +43,11 @@
         "id": 51553,
         "title": "Tongari Boushi no Atelier",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1726\/155542.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1726\/155542l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1726\/155542.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1726\/155542l.jpg"
         },
-        "mean": 8.75,
-        "num_list_users": 276197,
+        "mean": 8.74,
+        "num_list_users": 291486,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 13,
@@ -62,11 +62,11 @@
         "id": 61316,
         "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1540\/155824.webp",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1540\/155824l.webp"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1540\/155824.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1540\/155824l.jpg"
         },
-        "mean": 8.91,
-        "num_list_users": 221298,
+        "mean": 8.9,
+        "num_list_users": 227648,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 19,
@@ -81,11 +81,11 @@
         "id": 59708,
         "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1176\/153626.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1176\/153626l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1176\/153626.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1176\/153626l.jpg"
         },
-        "mean": 8.1,
-        "num_list_users": 193980,
+        "mean": 8.09,
+        "num_list_users": 198875,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 16,
@@ -100,11 +100,11 @@
         "id": 59970,
         "title": "Tensei shitara Slime Datta Ken 4th Season",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1695\/156389.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1695\/156389l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1695\/156389.webp",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1695\/156389l.webp"
         },
         "mean": 8.13,
-        "num_list_users": 189829,
+        "num_list_users": 194788,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -119,11 +119,11 @@
         "id": 62001,
         "title": "Yomi no Tsugai",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1171\/156397.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1171\/156397l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1171\/156397.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1171\/156397l.jpg"
         },
         "mean": 8,
-        "num_list_users": 165808,
+        "num_list_users": 173511,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 24,
@@ -138,11 +138,11 @@
         "id": 59983,
         "title": "Tsue to Tsurugi no Wistoria Season 2",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1190\/155788.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1190\/155788l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1190\/155788.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1190\/155788l.jpg"
         },
-        "mean": 8.26,
-        "num_list_users": 140419,
+        "mean": 8.27,
+        "num_list_users": 146632,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -157,11 +157,11 @@
         "id": 62568,
         "title": "Dr. Stone: Science Future Part 3",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1773\/155779.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1773\/155779l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1773\/155779.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1773\/155779l.jpg"
         },
-        "mean": 8.29,
-        "num_list_users": 137377,
+        "mean": 8.28,
+        "num_list_users": 141024,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 13,
@@ -176,11 +176,11 @@
         "id": 56876,
         "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1989\/154843.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1989\/154843l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1989\/154843.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1989\/154843l.jpg"
         },
-        "mean": 7.74,
-        "num_list_users": 136168,
+        "mean": 7.67,
+        "num_list_users": 138720,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -195,11 +195,11 @@
         "id": 56734,
         "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1423\/155713.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1423\/155713l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1423\/155713.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1423\/155713l.jpg"
         },
-        "mean": 7.87,
-        "num_list_users": 96810,
+        "mean": 7.9,
+        "num_list_users": 103502,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -214,11 +214,11 @@
         "id": 62601,
         "title": "Marriagetoxin",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1927\/154309.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1927\/154309l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1927\/154309.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1927\/154309l.jpg"
         },
-        "mean": 7.57,
-        "num_list_users": 95282,
+        "mean": 7.55,
+        "num_list_users": 101537,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -233,11 +233,11 @@
         "id": 966,
         "title": "Crayon Shin-chan",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/10\/59897.webp",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/10\/59897l.webp"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/10\/59897.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/10\/59897l.jpg"
         },
         "mean": 7.83,
-        "num_list_users": 94715,
+        "num_list_users": 94841,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -252,11 +252,11 @@
         "id": 62604,
         "title": "Otaku ni Yasashii Gal wa Inai!?",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1956\/155456.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1956\/155456l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1956\/155456.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1956\/155456l.jpg"
         },
         "mean": 7.6,
-        "num_list_users": 77507,
+        "num_list_users": 82380,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -271,30 +271,11 @@
         "id": 60852,
         "title": "Koori no Jouheki",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1565\/154933.webp",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1565\/154933l.webp"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1565\/154933.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1565\/154933l.jpg"
         },
-        "mean": 7.8,
-        "num_list_users": 77381,
-        "media_type": "tv",
-        "status": "currently_airing",
-        "num_episodes": 0,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
-        "id": 57466,
-        "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1371\/155054.webp",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1371\/155054l.webp"
-        },
-        "mean": 7.98,
-        "num_list_users": 73853,
+        "mean": 7.85,
+        "num_list_users": 81666,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -309,11 +290,11 @@
         "id": 60028,
         "title": "Himekishi wa Barbaroi no Yome",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1229\/155022.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1229\/155022l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1229\/155022.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1229\/155022l.jpg"
         },
-        "mean": 6.87,
-        "num_list_users": 72674,
+        "mean": 6.85,
+        "num_list_users": 75780,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -325,14 +306,33 @@
     },
     {
       "node": {
+        "id": 57466,
+        "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1371\/155054.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1371\/155054l.jpg"
+        },
+        "mean": 7.98,
+        "num_list_users": 75426,
+        "media_type": "tv",
+        "status": "currently_airing",
+        "num_episodes": 0,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
         "id": 60310,
         "title": "Mairimashita! Iruma-kun 4th Season",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1434\/154048.webp",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1434\/154048l.webp"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1434\/154048.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1434\/154048l.jpg"
         },
-        "mean": 8.06,
-        "num_list_users": 72616,
+        "mean": 8.15,
+        "num_list_users": 74516,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 24,
@@ -347,11 +347,11 @@
         "id": 57779,
         "title": "Dorohedoro Season 2",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1603\/155354.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1603\/155354l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1603\/155354.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1603\/155354l.jpg"
         },
-        "mean": 8.47,
-        "num_list_users": 70745,
+        "mean": 8.49,
+        "num_list_users": 72797,
         "media_type": "ona",
         "status": "currently_airing",
         "num_episodes": 11,
@@ -363,14 +363,14 @@
     },
     {
       "node": {
-        "id": 62146,
-        "title": "Isekai Nonbiri Nouka 2",
+        "id": 63375,
+        "title": "Nippon Sangoku",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1656\/156369.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1656\/156369l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1623\/156387.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1623\/156387l.jpg"
         },
-        "mean": 7.51,
-        "num_list_users": 68380,
+        "mean": 8.48,
+        "num_list_users": 71101,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -382,14 +382,14 @@
     },
     {
       "node": {
-        "id": 63375,
-        "title": "Nippon Sangoku",
+        "id": 62146,
+        "title": "Isekai Nonbiri Nouka 2",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1623\/156387.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1623\/156387l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1656\/156369.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1656\/156369l.jpg"
         },
-        "mean": 8.48,
-        "num_list_users": 66292,
+        "mean": 7.5,
+        "num_list_users": 70581,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -404,33 +404,14 @@
         "id": 61839,
         "title": "Aishiteru Game wo Owarasetai",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1879\/155958.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1879\/155958l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1879\/155958.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1879\/155958l.jpg"
         },
-        "mean": 7.29,
-        "num_list_users": 63584,
+        "mean": 7.27,
+        "num_list_users": 66719,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 12,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
-        "id": 62331,
-        "title": "Liar Game",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1607\/156078.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1607\/156078l.jpg"
-        },
-        "mean": 6.43,
-        "num_list_users": 61560,
-        "media_type": "tv",
-        "status": "currently_airing",
-        "num_episodes": 0,
         "start_season": {
           "year": 2026,
           "season": "spring"
@@ -442,11 +423,11 @@
         "id": 61443,
         "title": "Shunkashuutou Daikousha: Haru no Mai",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1993\/156385.webp",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1993\/156385l.webp"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1993\/156385.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1993\/156385l.jpg"
         },
-        "mean": 7.73,
-        "num_list_users": 61005,
+        "mean": 7.72,
+        "num_list_users": 63797,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 14,
@@ -458,17 +439,17 @@
     },
     {
       "node": {
-        "id": 61831,
-        "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
+        "id": 62331,
+        "title": "Liar Game",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1738\/156028.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1738\/156028l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1607\/156078.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1607\/156078l.jpg"
         },
-        "mean": 5.66,
-        "num_list_users": 60965,
+        "mean": 6.41,
+        "num_list_users": 63137,
         "media_type": "tv",
         "status": "currently_airing",
-        "num_episodes": 12,
+        "num_episodes": 0,
         "start_season": {
           "year": 2026,
           "season": "spring"
@@ -480,11 +461,11 @@
         "id": 61501,
         "title": "Kanan-sama wa Akumade Choroi",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1681\/154996.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1681\/154996l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1681\/154996.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1681\/154996l.jpg"
         },
-        "mean": 7.04,
-        "num_list_users": 60656,
+        "mean": 7.02,
+        "num_list_users": 62898,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -496,14 +477,14 @@
     },
     {
       "node": {
-        "id": 62164,
-        "title": "Akane-banashi",
+        "id": 61831,
+        "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1162\/155669.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1162\/155669l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1738\/156028.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1738\/156028l.jpg"
         },
-        "mean": 7.87,
-        "num_list_users": 54984,
+        "mean": 5.65,
+        "num_list_users": 62653,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -518,11 +499,11 @@
         "id": 63130,
         "title": "Boku no Hero Academia: More",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1273\/156615.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1273\/156615l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1273\/156615.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1273\/156615l.jpg"
         },
-        "mean": 8.14,
-        "num_list_users": 54917,
+        "mean": 8.13,
+        "num_list_users": 57502,
         "media_type": "tv_special",
         "status": "finished_airing",
         "num_episodes": 1,
@@ -534,52 +515,33 @@
     },
     {
       "node": {
+        "id": 62164,
+        "title": "Akane-banashi",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1162\/155669.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1162\/155669l.jpg"
+        },
+        "mean": 7.85,
+        "num_list_users": 56940,
+        "media_type": "tv",
+        "status": "currently_airing",
+        "num_episodes": 12,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
         "id": 62913,
         "title": "Needy Girl Overdose",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1755\/154935.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1755\/154935l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1755\/154935.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1755\/154935l.jpg"
         },
-        "mean": 6.92,
-        "num_list_users": 51651,
-        "media_type": "tv",
-        "status": "currently_airing",
-        "num_episodes": 13,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
-        "id": 59443,
-        "title": "Reincarnation no Kaben",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1064\/155042.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1064\/155042l.jpg"
-        },
-        "mean": 6.08,
-        "num_list_users": 46143,
-        "media_type": "tv",
-        "status": "currently_airing",
-        "num_episodes": 0,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
-        "id": 59551,
-        "title": "Ganbare! Nakamura-kun!!",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1201\/155682.webp",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1201\/155682l.webp"
-        },
-        "mean": 7.88,
-        "num_list_users": 45561,
+        "mean": 6.88,
+        "num_list_users": 53150,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 13,
@@ -594,11 +556,68 @@
         "id": 62391,
         "title": "Kill Ao",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1899\/156600.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1899\/156600l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1899\/156600.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1899\/156600l.jpg"
         },
-        "mean": 7.55,
-        "num_list_users": 44221,
+        "mean": 7.54,
+        "num_list_users": 47716,
+        "media_type": "tv",
+        "status": "currently_airing",
+        "num_episodes": 12,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 59443,
+        "title": "Reincarnation no Kaben",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1064\/155042.webp",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1064\/155042l.webp"
+        },
+        "mean": 6.06,
+        "num_list_users": 47341,
+        "media_type": "tv",
+        "status": "currently_airing",
+        "num_episodes": 0,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 59551,
+        "title": "Ganbare! Nakamura-kun!!",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1201\/155682.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1201\/155682l.jpg"
+        },
+        "mean": 7.88,
+        "num_list_users": 47089,
+        "media_type": "tv",
+        "status": "currently_airing",
+        "num_episodes": 13,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 61425,
+        "title": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1484\/155726.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1484\/155726l.jpg"
+        },
+        "mean": 7.53,
+        "num_list_users": 42684,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -613,11 +632,11 @@
         "id": 53876,
         "title": "Pokemon (2023)",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1703\/137216.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1703\/137216l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1703\/137216.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1703\/137216l.jpg"
         },
         "mean": 7.47,
-        "num_list_users": 42539,
+        "num_list_users": 42681,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -632,30 +651,11 @@
         "id": 62485,
         "title": "Kanojo, Okarishimasu 5th Season",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1393\/156075.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1393\/156075l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1393\/156075.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1393\/156075l.jpg"
         },
-        "mean": 5.89,
-        "num_list_users": 41084,
-        "media_type": "tv",
-        "status": "currently_airing",
-        "num_episodes": 12,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
-        "id": 61425,
-        "title": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1484\/155726.webp",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1484\/155726l.webp"
-        },
-        "mean": 7.53,
-        "num_list_users": 40519,
+        "mean": 5.84,
+        "num_list_users": 42134,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -670,11 +670,11 @@
         "id": 62825,
         "title": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1632\/155095.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1632\/155095l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1632\/155095.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1632\/155095l.jpg"
         },
-        "mean": 6.18,
-        "num_list_users": 39685,
+        "mean": 6.14,
+        "num_list_users": 41390,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -689,11 +689,30 @@
         "id": 61687,
         "title": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1769\/153376.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1769\/153376l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1769\/153376.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1769\/153376l.jpg"
         },
-        "mean": 7.33,
-        "num_list_users": 39341,
+        "mean": 7.36,
+        "num_list_users": 41298,
+        "media_type": "tv",
+        "status": "currently_airing",
+        "num_episodes": 12,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 61186,
+        "title": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1026\/155965.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1026\/155965l.jpg"
+        },
+        "mean": 7.8,
+        "num_list_users": 38698,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -708,11 +727,11 @@
         "id": 61931,
         "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1916\/155657.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1916\/155657l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1916\/155657.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1916\/155657l.jpg"
         },
-        "mean": 7.23,
-        "num_list_users": 37188,
+        "mean": 7.2,
+        "num_list_users": 38142,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -727,11 +746,11 @@
         "id": 60055,
         "title": "Yozakura-san Chi no Daisakusen 2nd Season",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1230\/155783.webp",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1230\/155783l.webp"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1230\/155783.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1230\/155783l.jpg"
         },
-        "mean": 7.67,
-        "num_list_users": 36880,
+        "mean": 7.66,
+        "num_list_users": 37734,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -743,33 +762,14 @@
     },
     {
       "node": {
-        "id": 61186,
-        "title": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1026\/155965.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1026\/155965l.jpg"
-        },
-        "mean": 7.77,
-        "num_list_users": 36803,
-        "media_type": "tv",
-        "status": "currently_airing",
-        "num_episodes": 12,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
         "id": 59393,
         "title": "Niwatori Fighter",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1666\/150983.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1666\/150983l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1666\/150983.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1666\/150983l.jpg"
         },
-        "mean": 6.82,
-        "num_list_users": 35549,
+        "mean": 6.81,
+        "num_list_users": 36272,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -784,11 +784,11 @@
         "id": 60444,
         "title": "Yowayowa Sensei",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1364\/155774.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1364\/155774l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1364\/155774.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1364\/155774l.jpg"
         },
-        "mean": 6.5,
-        "num_list_users": 34536,
+        "mean": 6.48,
+        "num_list_users": 35849,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -803,11 +803,11 @@
         "id": 62893,
         "title": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1045\/157132.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1045\/157132l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1045\/157132.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1045\/157132l.jpg"
         },
-        "mean": 7.29,
-        "num_list_users": 32941,
+        "mean": 7.27,
+        "num_list_users": 34185,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -822,11 +822,11 @@
         "id": 61943,
         "title": "Haibara-kun no Tsuyokute Seishun New Game",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1401\/156048.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1401\/156048l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1401\/156048.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1401\/156048l.jpg"
         },
-        "mean": 6.67,
-        "num_list_users": 32194,
+        "mean": 6.66,
+        "num_list_users": 33401,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -841,10 +841,10 @@
         "id": 59174,
         "title": "Mahouka Koukou no Rettousei Movie: Yotsuba Keishou-hen",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1777\/156368.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1777\/156368l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1777\/156368.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1777\/156368l.jpg"
         },
-        "num_list_users": 31752,
+        "num_list_users": 31987,
         "media_type": "movie",
         "status": "finished_airing",
         "num_episodes": 1,
@@ -859,11 +859,11 @@
         "id": 62048,
         "title": "Mao",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1738\/156386.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1738\/156386l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1738\/156386.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1738\/156386l.jpg"
         },
         "mean": 7.07,
-        "num_list_users": 29661,
+        "num_list_users": 30527,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -878,11 +878,11 @@
         "id": 61217,
         "title": "Yuusha no Kuzu",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1821\/154043.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1821\/154043l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1821\/154043.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1821\/154043l.jpg"
         },
-        "mean": 6.63,
-        "num_list_users": 29595,
+        "mean": 6.64,
+        "num_list_users": 30240,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 24,
@@ -897,11 +897,11 @@
         "id": 62171,
         "title": "Kuroneko to Majo no Kyoushitsu",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1716\/153989.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1716\/153989l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1716\/153989.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1716\/153989l.jpg"
         },
-        "mean": 6.67,
-        "num_list_users": 28084,
+        "mean": 6.63,
+        "num_list_users": 29144,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -913,33 +913,14 @@
     },
     {
       "node": {
-        "id": 61269,
-        "title": "Digimon Beatbreak",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1776\/151242.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1776\/151242l.jpg"
-        },
-        "mean": 7.23,
-        "num_list_users": 26543,
-        "media_type": "tv",
-        "status": "currently_airing",
-        "num_episodes": 0,
-        "start_season": {
-          "year": 2025,
-          "season": "fall"
-        }
-      }
-    },
-    {
-      "node": {
         "id": 62927,
         "title": "Fangkai Nage Nuwu",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1381\/153536.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1381\/153536l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1381\/153536.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1381\/153536l.jpg"
         },
         "mean": 8.23,
-        "num_list_users": 25751,
+        "num_list_users": 27015,
         "media_type": "ona",
         "status": "finished_airing",
         "num_episodes": 8,
@@ -951,20 +932,20 @@
     },
     {
       "node": {
-        "id": 62512,
-        "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+        "id": 61269,
+        "title": "Digimon Beatbreak",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1905\/156697.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1905\/156697l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1776\/151242.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1776\/151242l.jpg"
         },
-        "mean": 6.6,
-        "num_list_users": 25592,
+        "mean": 7.24,
+        "num_list_users": 26822,
         "media_type": "tv",
         "status": "currently_airing",
-        "num_episodes": 12,
+        "num_episodes": 0,
         "start_season": {
-          "year": 2026,
-          "season": "spring"
+          "year": 2025,
+          "season": "fall"
         }
       }
     },
@@ -973,11 +954,11 @@
         "id": 62964,
         "title": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1595\/156152.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1595\/156152l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1595\/156152.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1595\/156152l.jpg"
         },
-        "mean": 6.27,
-        "num_list_users": 25510,
+        "mean": 6.23,
+        "num_list_users": 26351,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -989,14 +970,33 @@
     },
     {
       "node": {
+        "id": 62512,
+        "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1905\/156697.webp",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1905\/156697l.webp"
+        },
+        "mean": 6.61,
+        "num_list_users": 26285,
+        "media_type": "tv",
+        "status": "currently_airing",
+        "num_episodes": 12,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
         "id": 62050,
         "title": "Kami no Niwatsuki Kusunoki-tei",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1974\/156105.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1974\/156105l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1974\/156105.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1974\/156105l.jpg"
         },
-        "mean": 7.38,
-        "num_list_users": 25040,
+        "mean": 7.37,
+        "num_list_users": 26093,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -1011,11 +1011,11 @@
         "id": 8687,
         "title": "Doraemon (2005)",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/6\/23935.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/6\/23935l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/6\/23935.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/6\/23935l.jpg"
         },
-        "mean": 7.82,
-        "num_list_users": 23790,
+        "mean": 7.83,
+        "num_list_users": 23864,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -1027,33 +1027,14 @@
     },
     {
       "node": {
-        "id": 61013,
-        "title": "Replica datte, Koi wo Suru.",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1148\/155671.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1148\/155671l.jpg"
-        },
-        "mean": 7.02,
-        "num_list_users": 22347,
-        "media_type": "tv",
-        "status": "currently_airing",
-        "num_episodes": 13,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
         "id": 63376,
         "title": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\"",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1228\/156696.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1228\/156696l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1228\/156696.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1228\/156696l.jpg"
         },
         "mean": 6.52,
-        "num_list_users": 22209,
+        "num_list_users": 23573,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -1065,14 +1046,33 @@
     },
     {
       "node": {
+        "id": 61013,
+        "title": "Replica datte, Koi wo Suru.",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1148\/155671.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1148\/155671l.jpg"
+        },
+        "mean": 7.01,
+        "num_list_users": 23404,
+        "media_type": "tv",
+        "status": "currently_airing",
+        "num_episodes": 13,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
         "id": 50250,
         "title": "Chiikawa",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1783\/121944.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1783\/121944l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1783\/121944.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1783\/121944l.jpg"
         },
         "mean": 8.62,
-        "num_list_users": 21112,
+        "num_list_users": 21394,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -1087,11 +1087,11 @@
         "id": 62983,
         "title": "Marika-chan no Koukando wa Bukkowareteiru",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1818\/155506.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1818\/155506l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1818\/155506.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1818\/155506l.jpg"
         },
-        "mean": 5.34,
-        "num_list_users": 18897,
+        "mean": 5.28,
+        "num_list_users": 19603,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 8,
@@ -1106,11 +1106,11 @@
         "id": 58877,
         "title": "Diamond no Ace: Act II Second Season",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1594\/154245.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1594\/154245l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1594\/154245.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1594\/154245l.jpg"
         },
-        "mean": 8.09,
-        "num_list_users": 18498,
+        "mean": 8.1,
+        "num_list_users": 18883,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -1125,11 +1125,11 @@
         "id": 62068,
         "title": "Snowball Earth",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1786\/156390.webp",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1786\/156390l.webp"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1786\/156390.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1786\/156390l.jpg"
         },
-        "mean": 6.67,
-        "num_list_users": 17713,
+        "mean": 6.62,
+        "num_list_users": 18412,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 13,
@@ -1144,11 +1144,11 @@
         "id": 63014,
         "title": "Tadaima, Ojamasaremasu!",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1199\/156106.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1199\/156106l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1199\/156106.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1199\/156106l.jpg"
         },
-        "mean": 6.48,
-        "num_list_users": 17200,
+        "mean": 6.46,
+        "num_list_users": 17794,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -1163,11 +1163,11 @@
         "id": 58820,
         "title": "Awajima Hyakkei",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1594\/157161.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1594\/157161l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1594\/157161.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1594\/157161l.jpg"
         },
-        "mean": 6.95,
-        "num_list_users": 16986,
+        "mean": 6.9,
+        "num_list_users": 17320,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -1182,11 +1182,11 @@
         "id": 53732,
         "title": "Hidarikiki no Eren",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1015\/156388.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1015\/156388l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1015\/156388.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1015\/156388l.jpg"
         },
-        "mean": 6.21,
-        "num_list_users": 16533,
+        "mean": 6.19,
+        "num_list_users": 17000,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 13,
@@ -1201,11 +1201,11 @@
         "id": 62342,
         "title": "Maid-san wa Taberu dake",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1175\/156007.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1175\/156007l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1175\/156007.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1175\/156007l.jpg"
         },
-        "mean": 6.74,
-        "num_list_users": 16397,
+        "mean": 6.72,
+        "num_list_users": 16876,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -1220,11 +1220,11 @@
         "id": 63304,
         "title": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1056\/154990.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1056\/154990l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1056\/154990.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1056\/154990l.jpg"
         },
-        "mean": 3.98,
-        "num_list_users": 15001,
+        "mean": 4,
+        "num_list_users": 15569,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -1239,11 +1239,11 @@
         "id": 62018,
         "title": "Ichijouma Mankitsugurashi!",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1178\/155933.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1178\/155933l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1178\/155933.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1178\/155933l.jpg"
         },
-        "mean": 6.43,
-        "num_list_users": 13359,
+        "mean": 6.42,
+        "num_list_users": 13769,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 11,
@@ -1258,11 +1258,11 @@
         "id": 59835,
         "title": "Kirio Fanclub",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1066\/155831.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1066\/155831l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1066\/155831.webp",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1066\/155831l.webp"
         },
         "mean": 6.26,
-        "num_list_users": 13325,
+        "num_list_users": 13704,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -1274,33 +1274,14 @@
     },
     {
       "node": {
-        "id": 56646,
-        "title": "Hokuto no Ken: Fist of the North Star",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1581\/156641.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1581\/156641l.jpg"
-        },
-        "mean": 6.37,
-        "num_list_users": 13198,
-        "media_type": "tv",
-        "status": "currently_airing",
-        "num_episodes": 0,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
         "id": 63572,
         "title": "Dandelion",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1222\/156332.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1222\/156332l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1222\/156332.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1222\/156332l.jpg"
         },
-        "mean": 7.35,
-        "num_list_users": 13038,
+        "mean": 7.33,
+        "num_list_users": 13535,
         "media_type": "ona",
         "status": "finished_airing",
         "num_episodes": 7,
@@ -1312,13 +1293,32 @@
     },
     {
       "node": {
+        "id": 56646,
+        "title": "Hokuto no Ken: Fist of the North Star",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1581\/156641.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1581\/156641l.jpg"
+        },
+        "mean": 6.35,
+        "num_list_users": 13366,
+        "media_type": "tv",
+        "status": "currently_airing",
+        "num_episodes": 0,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
         "id": 61230,
         "title": "Saishuu Gakushou Hibike! Euphonium: Zenpen",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1014\/155041.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1014\/155041l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1014\/155041.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1014\/155041l.jpg"
         },
-        "num_list_users": 10868,
+        "num_list_users": 10943,
         "media_type": "movie",
         "status": "finished_airing",
         "num_episodes": 1,
@@ -1333,11 +1333,11 @@
         "id": 2406,
         "title": "Sazae-san",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1008\/98996.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1008\/98996l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1008\/98996.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1008\/98996l.jpg"
         },
         "mean": 6.16,
-        "num_list_users": 10413,
+        "num_list_users": 10432,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -1352,10 +1352,10 @@
         "id": 61202,
         "title": "Mononoke Movie 3: Hebigami",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1521\/156670.webp",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1521\/156670l.webp"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1521\/156670.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1521\/156670l.jpg"
         },
-        "num_list_users": 10068,
+        "num_list_users": 10176,
         "media_type": "movie",
         "status": "not_yet_aired",
         "num_episodes": 1,
@@ -1370,11 +1370,11 @@
         "id": 63433,
         "title": "Daikenja Riddle no Jikan Gyakkou",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1764\/155312.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1764\/155312l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1764\/155312.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1764\/155312l.jpg"
         },
-        "mean": 4.13,
-        "num_list_users": 9617,
+        "mean": 4.12,
+        "num_list_users": 9876,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -1389,11 +1389,11 @@
         "id": 58832,
         "title": "Kujima Utaeba Ie Hororo",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1352\/155195.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1352\/155195l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1352\/155195.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1352\/155195l.jpg"
         },
-        "mean": 6.26,
-        "num_list_users": 9172,
+        "mean": 6.23,
+        "num_list_users": 9363,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -1408,11 +1408,11 @@
         "id": 6149,
         "title": "Chibi Maruko-chan (1995)",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1678\/153148.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1678\/153148l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1678\/153148.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1678\/153148l.jpg"
         },
         "mean": 7.5,
-        "num_list_users": 8950,
+        "num_list_users": 8968,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -1427,11 +1427,11 @@
         "id": 1199,
         "title": "Nintama Rantarou",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/6\/74028.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/6\/74028l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/6\/74028.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/6\/74028l.jpg"
         },
-        "mean": 7.11,
-        "num_list_users": 8716,
+        "mean": 7.12,
+        "num_list_users": 8726,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -1446,11 +1446,11 @@
         "id": 63310,
         "title": "Ingoku Danchi",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1373\/155741.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1373\/155741l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1373\/155741.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1373\/155741l.jpg"
         },
-        "mean": 5.38,
-        "num_list_users": 8252,
+        "mean": 5.32,
+        "num_list_users": 8706,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -1465,11 +1465,11 @@
         "id": 62155,
         "title": "Iya na Kao sare nagara Opantsu Misete Moraitai Returns",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1667\/154598.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1667\/154598l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1667\/154598.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1667\/154598l.jpg"
         },
-        "mean": 6.15,
-        "num_list_users": 8080,
+        "mean": 6.13,
+        "num_list_users": 8411,
         "media_type": "ona",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -1484,11 +1484,11 @@
         "id": 62981,
         "title": "Kami no Shizuku",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1045\/155698.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1045\/155698l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1045\/155698.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1045\/155698l.jpg"
         },
-        "mean": 6.08,
-        "num_list_users": 7720,
+        "mean": 6.06,
+        "num_list_users": 7948,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 24,
@@ -1500,32 +1500,13 @@
     },
     {
       "node": {
-        "id": 56566,
-        "title": "Beyblade X",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1394\/145458.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1394\/145458l.jpg"
-        },
-        "mean": 6.88,
-        "num_list_users": 7185,
-        "media_type": "tv",
-        "status": "currently_airing",
-        "num_episodes": 0,
-        "start_season": {
-          "year": 2023,
-          "season": "fall"
-        }
-      }
-    },
-    {
-      "node": {
         "id": 62276,
         "title": "Guimi Zhi Zhu Tebie Pian: Liewu",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1444\/151543.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1444\/151543l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1444\/151543.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1444\/151543l.jpg"
         },
-        "num_list_users": 7088,
+        "num_list_users": 7281,
         "media_type": "ona",
         "status": "not_yet_aired",
         "num_episodes": 0,
@@ -1537,15 +1518,53 @@
     },
     {
       "node": {
+        "id": 56566,
+        "title": "Beyblade X",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1394\/145458.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1394\/145458l.jpg"
+        },
+        "mean": 6.87,
+        "num_list_users": 7216,
+        "media_type": "tv",
+        "status": "currently_airing",
+        "num_episodes": 0,
+        "start_season": {
+          "year": 2023,
+          "season": "fall"
+        }
+      }
+    },
+    {
+      "node": {
         "id": 63830,
         "title": "Re:Zero kara Hajimeru Break Time 4th Season",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1014\/156363.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1014\/156363l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1014\/156363.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1014\/156363l.jpg"
         },
         "mean": 7.01,
-        "num_list_users": 6931,
+        "num_list_users": 7070,
         "media_type": "special",
+        "status": "currently_airing",
+        "num_episodes": 0,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 63248,
+        "title": "Ookii Onnanoko wa Suki desu ka?",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1482\/155539.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1482\/155539l.jpg"
+        },
+        "mean": 6.46,
+        "num_list_users": 7042,
+        "media_type": "ona",
         "status": "currently_airing",
         "num_episodes": 0,
         "start_season": {
@@ -1559,11 +1578,11 @@
         "id": 60534,
         "title": "Koupen-chan",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1533\/146981.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1533\/146981l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1533\/146981.webp",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1533\/146981l.webp"
         },
-        "mean": 7.54,
-        "num_list_users": 6752,
+        "mean": 7.55,
+        "num_list_users": 6797,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -1575,33 +1594,14 @@
     },
     {
       "node": {
-        "id": 63248,
-        "title": "Ookii Onnanoko wa Suki desu ka?",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1482\/155539.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1482\/155539l.jpg"
-        },
-        "mean": 6.45,
-        "num_list_users": 6685,
-        "media_type": "ona",
-        "status": "currently_airing",
-        "num_episodes": 0,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
         "id": 59176,
         "title": "Mahou no Shimai Lulutto Lilly",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1099\/155721.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1099\/155721l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1099\/155721.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1099\/155721l.jpg"
         },
-        "mean": 6.82,
-        "num_list_users": 6139,
+        "mean": 6.78,
+        "num_list_users": 6379,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -1616,11 +1616,11 @@
         "id": 62852,
         "title": "Ghost Concert: Missing Songs",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1489\/155658.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1489\/155658l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1489\/155658.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1489\/155658l.jpg"
         },
-        "mean": 5.52,
-        "num_list_users": 6124,
+        "mean": 5.46,
+        "num_list_users": 6269,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -1635,11 +1635,11 @@
         "id": 63042,
         "title": "Meitantei Precure!",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1706\/154944.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1706\/154944l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1706\/154944.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1706\/154944l.jpg"
         },
-        "mean": 7.6,
-        "num_list_users": 5902,
+        "mean": 7.61,
+        "num_list_users": 6109,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -1654,11 +1654,11 @@
         "id": 1960,
         "title": "Sore Ike! Anpanman",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1902\/111797.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1902\/111797l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1902\/111797.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1902\/111797l.jpg"
         },
-        "mean": 6.99,
-        "num_list_users": 5361,
+        "mean": 7.02,
+        "num_list_users": 5363,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -1673,11 +1673,11 @@
         "id": 63857,
         "title": "Tsue to Tsurugi no Wistoria Recap",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1030\/156425.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1030\/156425l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1030\/156425.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1030\/156425l.jpg"
         },
         "mean": 6.66,
-        "num_list_users": 4957,
+        "num_list_users": 5222,
         "media_type": "tv_special",
         "status": "finished_airing",
         "num_episodes": 1,
@@ -1692,11 +1692,11 @@
         "id": 63266,
         "title": "Tensei Akujo no Kuro Rekishi OVA",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1121\/156597.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1121\/156597l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1121\/156597.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1121\/156597l.jpg"
         },
         "mean": 6.94,
-        "num_list_users": 4674,
+        "num_list_users": 4772,
         "media_type": "ova",
         "status": "finished_airing",
         "num_episodes": 1,
@@ -1711,12 +1711,12 @@
         "id": 59889,
         "title": "Kidou Keisatsu Patlabor: EZY",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1205\/156184.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1205\/156184l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1205\/156184.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1205\/156184l.jpg"
         },
-        "num_list_users": 4455,
+        "num_list_users": 4551,
         "media_type": "movie",
-        "status": "not_yet_aired",
+        "status": "currently_airing",
         "num_episodes": 8,
         "start_season": {
           "year": 2026,
@@ -1729,10 +1729,10 @@
         "id": 63503,
         "title": "Isekai no Sata wa Shachiku Shidai: Omoi wo Hasemashita",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1421\/155513.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1421\/155513l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1421\/155513.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1421\/155513l.jpg"
         },
-        "num_list_users": 4197,
+        "num_list_users": 4256,
         "media_type": "special",
         "status": "not_yet_aired",
         "num_episodes": 1,
@@ -1747,11 +1747,11 @@
         "id": 32353,
         "title": "Bonobono (TV 2016)",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1686\/149949.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1686\/149949l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1686\/149949.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1686\/149949l.jpg"
         },
         "mean": 6.43,
-        "num_list_users": 4148,
+        "num_list_users": 4151,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -1766,11 +1766,11 @@
         "id": 50418,
         "title": "Ninjala (TV)",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1552\/119871.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1552\/119871l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1552\/119871.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1552\/119871l.jpg"
         },
         "mean": 5.59,
-        "num_list_users": 3889,
+        "num_list_users": 3893,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -1785,11 +1785,11 @@
         "id": 63469,
         "title": "Hyakki Yakoushou",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1589\/156720.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1589\/156720l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1589\/156720.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1589\/156720l.jpg"
         },
-        "mean": 5.26,
-        "num_list_users": 3229,
+        "mean": 5.27,
+        "num_list_users": 3307,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -1804,10 +1804,10 @@
         "id": 48442,
         "title": "Shikaru Neko",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1008\/113384.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1008\/113384l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1008\/113384.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1008\/113384l.jpg"
         },
-        "num_list_users": 3191,
+        "num_list_users": 3197,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -1822,13 +1822,13 @@
         "id": 62719,
         "title": "Quanzhi Fashi VII",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1579\/157370.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1579\/157370l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1579\/157370.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1579\/157370l.jpg"
         },
-        "num_list_users": 3051,
+        "num_list_users": 3177,
         "media_type": "ona",
         "status": "currently_airing",
-        "num_episodes": 0,
+        "num_episodes": 12,
         "start_season": {
           "year": 2026,
           "season": "spring"
@@ -1840,11 +1840,11 @@
         "id": 60153,
         "title": "Rilakkuma",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1956\/155696.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1956\/155696l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1956\/155696.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1956\/155696l.jpg"
         },
-        "mean": 6.22,
-        "num_list_users": 2678,
+        "mean": 6.2,
+        "num_list_users": 2776,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -1856,14 +1856,33 @@
     },
     {
       "node": {
+        "id": 62387,
+        "title": "Meitantei Conan Movie 29: Highway no Datenshi",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1788\/155583.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1788\/155583l.jpg"
+        },
+        "mean": 6.96,
+        "num_list_users": 2529,
+        "media_type": "movie",
+        "status": "finished_airing",
+        "num_episodes": 1,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
         "id": 4459,
         "title": "Ojarumaru",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1072\/154254.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1072\/154254l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1072\/154254.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1072\/154254l.jpg"
         },
         "mean": 6.36,
-        "num_list_users": 2525,
+        "num_list_users": 2528,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -1875,14 +1894,14 @@
     },
     {
       "node": {
-        "id": 62387,
-        "title": "Meitantei Conan Movie 29: Highway no Datenshi",
+        "id": 61806,
+        "title": "Love Live! Hasunosora Jogakuin School Idol Club Movie: Bloom Garden Party",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1788\/155583.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1788\/155583l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1035\/154122.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1035\/154122l.jpg"
         },
-        "mean": 6.97,
-        "num_list_users": 2468,
+        "mean": 7.07,
+        "num_list_users": 2495,
         "media_type": "movie",
         "status": "finished_airing",
         "num_episodes": 1,
@@ -1897,11 +1916,11 @@
         "id": 42295,
         "title": "Fushigi Dagashiya: Zenitendou",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1602\/150098.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1602\/150098l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1602\/150098.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1602\/150098l.jpg"
         },
-        "mean": 6.14,
-        "num_list_users": 2411,
+        "mean": 6.16,
+        "num_list_users": 2412,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -1913,52 +1932,14 @@
     },
     {
       "node": {
-        "id": 61806,
-        "title": "Love Live! Hasunosora Jogakuin School Idol Club Movie: Bloom Garden Party",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1035\/154122.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1035\/154122l.jpg"
-        },
-        "mean": 7,
-        "num_list_users": 2367,
-        "media_type": "movie",
-        "status": "finished_airing",
-        "num_episodes": 1,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
-        "id": 37096,
-        "title": "Puzzle & Dragon",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1460\/149962.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1460\/149962l.jpg"
-        },
-        "mean": 6.28,
-        "num_list_users": 2119,
-        "media_type": "tv",
-        "status": "currently_airing",
-        "num_episodes": 0,
-        "start_season": {
-          "year": 2018,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
         "id": 30151,
         "title": "Kamiusagi Rope: Warau Asa ni wa Fukuraitaru tte Maji ssuka!?",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/6\/72182.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/6\/72182l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/6\/72182.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/6\/72182l.jpg"
         },
         "mean": 5.84,
-        "num_list_users": 2115,
+        "num_list_users": 2121,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -1970,14 +1951,33 @@
     },
     {
       "node": {
+        "id": 37096,
+        "title": "Puzzle & Dragon",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1460\/149962.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1460\/149962l.jpg"
+        },
+        "mean": 6.28,
+        "num_list_users": 2120,
+        "media_type": "tv",
+        "status": "currently_airing",
+        "num_episodes": 0,
+        "start_season": {
+          "year": 2018,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
         "id": 63957,
         "title": "Shiguang Xiao Juchang",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1163\/156794.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1163\/156794l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1163\/156794.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1163\/156794l.jpg"
         },
-        "mean": 6.75,
-        "num_list_users": 1862,
+        "mean": 6.74,
+        "num_list_users": 1943,
         "media_type": "ona",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -1992,11 +1992,11 @@
         "id": 53907,
         "title": "Tom to Jerry Gokko",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1871\/153977.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1871\/153977l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1871\/153977.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1871\/153977l.jpg"
         },
         "mean": 6.65,
-        "num_list_users": 1718,
+        "num_list_users": 1723,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -2008,32 +2008,14 @@
     },
     {
       "node": {
-        "id": 10506,
-        "title": "Shiawase Haitatsu Taneko",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/2\/28900.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/2\/28900l.jpg"
-        },
-        "num_list_users": 1639,
-        "media_type": "tv",
-        "status": "currently_airing",
-        "num_episodes": 0,
-        "start_season": {
-          "year": 2011,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
         "id": 62340,
         "title": "Guangyin Zhi Wai",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1628\/153418.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1628\/153418l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1628\/153418.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1628\/153418l.jpg"
         },
-        "mean": 8.15,
-        "num_list_users": 1623,
+        "mean": 8.18,
+        "num_list_users": 1703,
         "media_type": "ona",
         "status": "currently_airing",
         "num_episodes": 26,
@@ -2045,18 +2027,18 @@
     },
     {
       "node": {
-        "id": 58773,
-        "title": "Keroro Gunsou Movie 6: Fukkatsu shite Sokkou Chikyuu Metsubou no Kiki de Arimasu!",
+        "id": 10506,
+        "title": "Shiawase Haitatsu Taneko",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1272\/157007.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1272\/157007l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/2\/28900.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/2\/28900l.jpg"
         },
-        "num_list_users": 1568,
-        "media_type": "movie",
-        "status": "not_yet_aired",
-        "num_episodes": 1,
+        "num_list_users": 1644,
+        "media_type": "tv",
+        "status": "currently_airing",
+        "num_episodes": 0,
         "start_season": {
-          "year": 2026,
+          "year": 2011,
           "season": "spring"
         }
       }
@@ -2066,10 +2048,10 @@
         "id": 63709,
         "title": "Komekami! Girls",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1392\/156024.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1392\/156024l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1392\/156024.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1392\/156024l.jpg"
         },
-        "num_list_users": 1555,
+        "num_list_users": 1622,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -2081,13 +2063,31 @@
     },
     {
       "node": {
+        "id": 58773,
+        "title": "Keroro Gunsou Movie 6: Fukkatsu shite Sokkou Chikyuu Metsubou no Kiki de Arimasu!",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1272\/157007.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1272\/157007l.jpg"
+        },
+        "num_list_users": 1576,
+        "media_type": "movie",
+        "status": "not_yet_aired",
+        "num_episodes": 1,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
         "id": 63964,
         "title": "Cheongchun Blossom: Uliui Bom",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1318\/156822.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1318\/156822l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1318\/156822.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1318\/156822l.jpg"
         },
-        "num_list_users": 1372,
+        "num_list_users": 1559,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -2099,33 +2099,14 @@
     },
     {
       "node": {
-        "id": 61562,
-        "title": "Ze Tian Ji (2026)",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1993\/157555.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1993\/157555l.jpg"
-        },
-        "mean": 7.66,
-        "num_list_users": 1330,
-        "media_type": "ona",
-        "status": "currently_airing",
-        "num_episodes": 26,
-        "start_season": {
-          "year": 2026,
-          "season": "winter"
-        }
-      }
-    },
-    {
-      "node": {
         "id": 63582,
         "title": "Kyonyuu ga Futari Inai to Bokki Shinai Otto no Tame ni Tomodachi wo Tsuretekita Tsuma",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1111\/155716.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1111\/155716l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1111\/155716.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1111\/155716l.jpg"
         },
-        "mean": 7.28,
-        "num_list_users": 1315,
+        "mean": 7.38,
+        "num_list_users": 1555,
         "media_type": "ova",
         "status": "finished_airing",
         "num_episodes": 2,
@@ -2137,14 +2118,33 @@
     },
     {
       "node": {
+        "id": 61562,
+        "title": "Ze Tian Ji (2026)",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1993\/157555.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1993\/157555l.jpg"
+        },
+        "mean": 7.68,
+        "num_list_users": 1376,
+        "media_type": "ona",
+        "status": "currently_airing",
+        "num_episodes": 26,
+        "start_season": {
+          "year": 2026,
+          "season": "winter"
+        }
+      }
+    },
+    {
+      "node": {
         "id": 8336,
         "title": "Hanakappa",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1105\/90503.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1105\/90503l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1105\/90503.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1105\/90503l.jpg"
         },
         "mean": 6.04,
-        "num_list_users": 1215,
+        "num_list_users": 1216,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -2159,11 +2159,11 @@
         "id": 62728,
         "title": "Jian Lai 2nd Season",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1474\/154631.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1474\/154631l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1474\/154631.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1474\/154631l.jpg"
         },
         "mean": 7.69,
-        "num_list_users": 1140,
+        "num_list_users": 1178,
         "media_type": "ona",
         "status": "finished_airing",
         "num_episodes": 27,
@@ -2175,19 +2175,20 @@
     },
     {
       "node": {
-        "id": 38776,
-        "title": "Manul no Yuube",
+        "id": 63345,
+        "title": "Love wa Gal kara Hajimaru Unmei",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1980\/96936.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1980\/96936l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1825\/155073.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1825\/155073l.jpg"
         },
-        "num_list_users": 1113,
-        "media_type": "tv",
+        "mean": 6.44,
+        "num_list_users": 1136,
+        "media_type": "ova",
         "status": "currently_airing",
         "num_episodes": 0,
         "start_season": {
-          "year": 2018,
-          "season": "fall"
+          "year": 2026,
+          "season": "spring"
         }
       }
     },
@@ -2196,10 +2197,10 @@
         "id": 63240,
         "title": "Fanren Xiu Xian Zhuan: Mulan Zhi Zhan",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1139\/154818.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1139\/154818l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1139\/154818.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1139\/154818l.jpg"
         },
-        "num_list_users": 1098,
+        "num_list_users": 1121,
         "media_type": "ona",
         "status": "not_yet_aired",
         "num_episodes": 0,
@@ -2211,19 +2212,19 @@
     },
     {
       "node": {
-        "id": 63352,
-        "title": "Onegai AiPri",
+        "id": 38776,
+        "title": "Manul no Yuube",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1705\/155680.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1705\/155680l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1980\/96936.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1980\/96936l.jpg"
         },
-        "num_list_users": 1051,
+        "num_list_users": 1117,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
         "start_season": {
-          "year": 2026,
-          "season": "spring"
+          "year": 2018,
+          "season": "fall"
         }
       }
     },
@@ -2232,10 +2233,10 @@
         "id": 60588,
         "title": "Kai Pai La! Guaishou Da Dianying",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1620\/157012.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1620\/157012l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1620\/157012.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1620\/157012l.jpg"
         },
-        "num_list_users": 1049,
+        "num_list_users": 1105,
         "media_type": "ona",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -2247,13 +2248,31 @@
     },
     {
       "node": {
+        "id": 63352,
+        "title": "Onegai AiPri",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1705\/155680.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1705\/155680l.jpg"
+        },
+        "num_list_users": 1089,
+        "media_type": "tv",
+        "status": "currently_airing",
+        "num_episodes": 0,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
         "id": 62651,
         "title": "Cang Yuan Tu 3",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1265\/156306.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1265\/156306l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1265\/156306.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1265\/156306l.jpg"
         },
-        "num_list_users": 1025,
+        "num_list_users": 1068,
         "media_type": "ona",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -2268,11 +2287,11 @@
         "id": 60580,
         "title": "Xuan Jie Zhi Men",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1794\/157411.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1794\/157411l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1794\/157411.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1794\/157411l.jpg"
         },
-        "mean": 6.96,
-        "num_list_users": 1021,
+        "mean": 7.01,
+        "num_list_users": 1067,
         "media_type": "ona",
         "status": "finished_airing",
         "num_episodes": 26,
@@ -2284,14 +2303,14 @@
     },
     {
       "node": {
-        "id": 63345,
-        "title": "Love wa Gal kara Hajimaru Unmei",
+        "id": 63520,
+        "title": "Todo no Tsumari",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1825\/155073.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1825\/155073l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1075\/155561.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1075\/155561l.jpg"
         },
-        "mean": 6.35,
-        "num_list_users": 1015,
+        "mean": 6.14,
+        "num_list_users": 988,
         "media_type": "ova",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -2306,14 +2325,33 @@
         "id": 63394,
         "title": "Chimimonryou",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1041\/155188.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1041\/155188l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1041\/155188.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1041\/155188l.jpg"
         },
-        "mean": 6.05,
-        "num_list_users": 895,
+        "mean": 5.92,
+        "num_list_users": 983,
         "media_type": "ova",
         "status": "currently_airing",
         "num_episodes": 0,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 64080,
+        "title": "Jujutsu Kaisen Modulo Saishuu Sankan Hatsubai Kinen Special PV",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1305\/157150.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1305\/157150l.jpg"
+        },
+        "mean": 7.2,
+        "num_list_users": 905,
+        "media_type": "pv",
+        "status": "finished_airing",
+        "num_episodes": 1,
         "start_season": {
           "year": 2026,
           "season": "spring"
@@ -2325,10 +2363,10 @@
         "id": 54871,
         "title": "Shin Nippon History",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1433\/134811.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1433\/134811l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1433\/134811.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1433\/134811l.jpg"
         },
-        "num_list_users": 887,
+        "num_list_users": 890,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -2340,68 +2378,14 @@
     },
     {
       "node": {
-        "id": 63520,
-        "title": "Todo no Tsumari",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1075\/155561.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1075\/155561l.jpg"
-        },
-        "num_list_users": 862,
-        "media_type": "ova",
-        "status": "currently_airing",
-        "num_episodes": 0,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
-        "id": 18941,
-        "title": "Shimajirou no Wow!",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/9\/50737.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/9\/50737l.jpg"
-        },
-        "num_list_users": 851,
-        "media_type": "tv",
-        "status": "currently_airing",
-        "num_episodes": 0,
-        "start_season": {
-          "year": 2012,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
-        "id": 61557,
-        "title": "Nitian Xie Shen: Nian Fan",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1265\/156940.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1265\/156940l.jpg"
-        },
-        "num_list_users": 833,
-        "media_type": "ona",
-        "status": "currently_airing",
-        "num_episodes": 52,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
         "id": 63276,
         "title": "Candy Caries",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1780\/154909.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1780\/154909l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1780\/154909.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1780\/154909l.jpg"
         },
-        "mean": 6.37,
-        "num_list_users": 833,
+        "mean": 6.43,
+        "num_list_users": 877,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -2416,11 +2400,11 @@
         "id": 64056,
         "title": "Mirai no Lemon Sour x Final Fantasy VII Rebirth CM",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1397\/157080.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1397\/157080l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1397\/157080.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1397\/157080l.jpg"
         },
-        "mean": 6.05,
-        "num_list_users": 824,
+        "mean": 6.04,
+        "num_list_users": 856,
         "media_type": "cm",
         "status": "finished_airing",
         "num_episodes": 1,
@@ -2432,17 +2416,16 @@
     },
     {
       "node": {
-        "id": 62726,
-        "title": "Tunshi Xingkong Movie: Juezhan Yuanshi Xing",
+        "id": 61557,
+        "title": "Nitian Xie Shen: Nian Fan",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1856\/157227.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1856\/157227l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1265\/156940.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1265\/156940l.jpg"
         },
-        "mean": 7.55,
-        "num_list_users": 814,
+        "num_list_users": 854,
         "media_type": "ona",
-        "status": "finished_airing",
-        "num_episodes": 1,
+        "status": "currently_airing",
+        "num_episodes": 52,
         "start_season": {
           "year": 2026,
           "season": "spring"
@@ -2451,15 +2434,33 @@
     },
     {
       "node": {
-        "id": 64080,
-        "title": "Jujutsu Kaisen Modulo Saishuu Sankan Hatsubai Kinen Special PV",
+        "id": 18941,
+        "title": "Shimajirou no Wow!",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1305\/157150.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1305\/157150l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/9\/50737.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/9\/50737l.jpg"
         },
-        "mean": 7.16,
-        "num_list_users": 784,
-        "media_type": "pv",
+        "num_list_users": 852,
+        "media_type": "tv",
+        "status": "currently_airing",
+        "num_episodes": 0,
+        "start_season": {
+          "year": 2012,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 62726,
+        "title": "Tunshi Xingkong Movie: Juezhan Yuanshi Xing",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1856\/157227.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1856\/157227l.jpg"
+        },
+        "mean": 7.55,
+        "num_list_users": 849,
+        "media_type": "ona",
         "status": "finished_airing",
         "num_episodes": 1,
         "start_season": {
@@ -2473,10 +2474,47 @@
         "id": 62718,
         "title": "Xingchen Bian 7th Season",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1147\/156957.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1147\/156957l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1147\/156957.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1147\/156957l.jpg"
         },
-        "num_list_users": 712,
+        "num_list_users": 748,
+        "media_type": "ona",
+        "status": "currently_airing",
+        "num_episodes": 12,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 63939,
+        "title": "The Bloody Mary",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1916\/156705.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1916\/156705l.jpg"
+        },
+        "mean": 7.14,
+        "num_list_users": 667,
+        "media_type": "ona",
+        "status": "finished_airing",
+        "num_episodes": 1,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 63125,
+        "title": "Odekake Kozame 2nd Season",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1635\/156342.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1635\/156342l.jpg"
+        },
+        "num_list_users": 654,
         "media_type": "ona",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -2491,10 +2529,10 @@
         "id": 22669,
         "title": "Gohan Kaijuu Pap",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/13\/59289.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/13\/59289l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/13\/59289.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/13\/59289l.jpg"
         },
-        "num_list_users": 652,
+        "num_list_users": 653,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -2506,51 +2544,14 @@
     },
     {
       "node": {
-        "id": 63125,
-        "title": "Odekake Kozame 2nd Season",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1635\/156342.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1635\/156342l.jpg"
-        },
-        "num_list_users": 640,
-        "media_type": "ona",
-        "status": "currently_airing",
-        "num_episodes": 0,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
         "id": 63606,
         "title": "Zhe Tian Movie: Bei Guan Zhan Wang Teng",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1017\/156548.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1017\/156548l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1017\/156548.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1017\/156548l.jpg"
         },
-        "mean": 7.61,
-        "num_list_users": 626,
-        "media_type": "ona",
-        "status": "finished_airing",
-        "num_episodes": 1,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
-        "id": 63939,
-        "title": "The Bloody Mary",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1916\/156705.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1916\/156705l.jpg"
-        },
-        "mean": 7.14,
-        "num_list_users": 609,
+        "mean": 7.64,
+        "num_list_users": 649,
         "media_type": "ona",
         "status": "finished_airing",
         "num_episodes": 1,
@@ -2565,10 +2566,10 @@
         "id": 61626,
         "title": "Sou Shen Ji (ONA)",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1433\/156264.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1433\/156264l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1433\/156264.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1433\/156264l.jpg"
         },
-        "num_list_users": 588,
+        "num_list_users": 610,
         "media_type": "ona",
         "status": "currently_airing",
         "num_episodes": 24,
@@ -2580,31 +2581,13 @@
     },
     {
       "node": {
-        "id": 60592,
-        "title": "Dadao Duxing: Die Long Bian",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1648\/156622.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1648\/156622l.jpg"
-        },
-        "num_list_users": 559,
-        "media_type": "ona",
-        "status": "currently_airing",
-        "num_episodes": 16,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
         "id": 63846,
         "title": "Heart Mark Oome",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1816\/156405.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1816\/156405l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1816\/156405.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1816\/156405l.jpg"
         },
-        "num_list_users": 554,
+        "num_list_users": 592,
         "media_type": "ova",
         "status": "not_yet_aired",
         "num_episodes": 0,
@@ -2616,13 +2599,31 @@
     },
     {
       "node": {
+        "id": 60592,
+        "title": "Dadao Duxing: Die Long Bian",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1648\/156622.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1648\/156622l.jpg"
+        },
+        "num_list_users": 586,
+        "media_type": "ona",
+        "status": "currently_airing",
+        "num_episodes": 16,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
         "id": 60571,
         "title": "Jiang Ye",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1021\/156293.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1021\/156293l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1021\/156293.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1021\/156293l.jpg"
         },
-        "num_list_users": 525,
+        "num_list_users": 560,
         "media_type": "ona",
         "status": "currently_airing",
         "num_episodes": 19,
@@ -2637,10 +2638,47 @@
         "id": 63765,
         "title": "Nuki Nuki Zupposism",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1651\/156189.webp",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1651\/156189l.webp"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1651\/156189.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1651\/156189l.jpg"
         },
-        "num_list_users": 525,
+        "num_list_users": 557,
+        "media_type": "ova",
+        "status": "not_yet_aired",
+        "num_episodes": 0,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 64128,
+        "title": "Otaku no Boku ga Ichigun Gal to Tsukiaerumade no Hanashi",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1758\/157317.webp",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1758\/157317l.webp"
+        },
+        "mean": 6.42,
+        "num_list_users": 554,
+        "media_type": "ona",
+        "status": "currently_airing",
+        "num_episodes": 0,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 63810,
+        "title": "Paihame Kazoku",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1095\/156302.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1095\/156302l.jpg"
+        },
+        "num_list_users": 544,
         "media_type": "ova",
         "status": "not_yet_aired",
         "num_episodes": 0,
@@ -2655,10 +2693,10 @@
         "id": 63657,
         "title": "Seishidouin no Oshigoto",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1911\/155946.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1911\/155946l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1911\/155946.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1911\/155946l.jpg"
         },
-        "num_list_users": 524,
+        "num_list_users": 541,
         "media_type": "ova",
         "status": "not_yet_aired",
         "num_episodes": 0,
@@ -2673,10 +2711,10 @@
         "id": 58604,
         "title": "Youkoso Ninchishou Sekai e",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1573\/142457.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1573\/142457l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1573\/142457.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1573\/142457l.jpg"
         },
-        "num_list_users": 515,
+        "num_list_users": 518,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -2688,31 +2726,13 @@
     },
     {
       "node": {
-        "id": 63810,
-        "title": "Paihame Kazoku",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1095\/156302.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1095\/156302l.jpg"
-        },
-        "num_list_users": 514,
-        "media_type": "ova",
-        "status": "not_yet_aired",
-        "num_episodes": 0,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
         "id": 61765,
         "title": "Chibi Godzilla no Gyakushuu 3rd Season",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1859\/150334.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1859\/150334l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1859\/150334.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1859\/150334l.jpg"
         },
-        "num_list_users": 499,
+        "num_list_users": 503,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -2727,10 +2747,10 @@
         "id": 57357,
         "title": "Shuwawan!",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1129\/140004.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1129\/140004l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1129\/140004.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1129\/140004l.jpg"
         },
-        "num_list_users": 494,
+        "num_list_users": 498,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -2745,10 +2765,10 @@
         "id": 63439,
         "title": "Dao Yao Xing",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1461\/155329.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1461\/155329l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1461\/155329.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1461\/155329l.jpg"
         },
-        "num_list_users": 453,
+        "num_list_users": 477,
         "media_type": "ona",
         "status": "currently_airing",
         "num_episodes": 60,
@@ -2760,13 +2780,31 @@
     },
     {
       "node": {
+        "id": 63967,
+        "title": "Panlong",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1578\/156842.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1578\/156842l.jpg"
+        },
+        "num_list_users": 454,
+        "media_type": "ona",
+        "status": "currently_airing",
+        "num_episodes": 20,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
         "id": 41458,
         "title": "Origami Ninja Koyankinte",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1860\/106477.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1860\/106477l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1860\/106477.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1860\/106477l.jpg"
         },
-        "num_list_users": 444,
+        "num_list_users": 445,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -2781,10 +2819,10 @@
         "id": 59752,
         "title": "Warau Red List",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1437\/145327.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1437\/145327l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1437\/145327.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1437\/145327l.jpg"
         },
-        "num_list_users": 425,
+        "num_list_users": 429,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -2796,31 +2834,13 @@
     },
     {
       "node": {
-        "id": 63967,
-        "title": "Panlong",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1578\/156842.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1578\/156842l.jpg"
-        },
-        "num_list_users": 394,
-        "media_type": "ona",
-        "status": "currently_airing",
-        "num_episodes": 20,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
         "id": 63153,
         "title": "Hyakushou Kizoku 3rd Season Specials",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1505\/154565.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1505\/154565l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1505\/154565.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1505\/154565l.jpg"
         },
-        "num_list_users": 372,
+        "num_list_users": 391,
         "media_type": "special",
         "status": "finished_airing",
         "num_episodes": 2,
@@ -2832,55 +2852,19 @@
     },
     {
       "node": {
-        "id": 53408,
-        "title": "I Love Me 2nd Season",
+        "id": 64102,
+        "title": "Kujira wo Yumemu",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1581\/132395.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1581\/132395l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1900\/157215.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1900\/157215l.jpg"
         },
-        "num_list_users": 362,
-        "media_type": "tv",
-        "status": "currently_airing",
-        "num_episodes": 0,
+        "num_list_users": 391,
+        "media_type": "movie",
+        "status": "finished_airing",
+        "num_episodes": 1,
         "start_season": {
-          "year": 2022,
-          "season": "fall"
-        }
-      }
-    },
-    {
-      "node": {
-        "id": 54667,
-        "title": "Mukashibanashi no Oheya: Tsutaetai Nihon Mukashibanashi",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1384\/133998.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1384\/133998l.jpg"
-        },
-        "num_list_users": 344,
-        "media_type": "tv",
-        "status": "currently_airing",
-        "num_episodes": 0,
-        "start_season": {
-          "year": 2020,
-          "season": "summer"
-        }
-      }
-    },
-    {
-      "node": {
-        "id": 62654,
-        "title": "Princess Catch! Tiniping",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1153\/152436.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1153\/152436l.jpg"
-        },
-        "num_list_users": 344,
-        "media_type": "tv",
-        "status": "currently_airing",
-        "num_episodes": 26,
-        "start_season": {
-          "year": 2025,
-          "season": "fall"
+          "year": 2026,
+          "season": "spring"
         }
       }
     },
@@ -2889,11 +2873,11 @@
         "id": 64018,
         "title": "Kaze no Anthem",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1472\/157010.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1472\/157010l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1472\/157010.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1472\/157010l.jpg"
         },
-        "mean": 7.01,
-        "num_list_users": 335,
+        "mean": 7.04,
+        "num_list_users": 386,
         "media_type": "music",
         "status": "finished_airing",
         "num_episodes": 1,
@@ -2905,19 +2889,55 @@
     },
     {
       "node": {
-        "id": 64128,
-        "title": "Otaku no Boku ga Ichigun Gal to Tsukiaerumade no Hanashi",
+        "id": 53408,
+        "title": "I Love Me 2nd Season",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1758\/157317.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1758\/157317l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1581\/132395.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1581\/132395l.jpg"
         },
-        "num_list_users": 332,
-        "media_type": "ona",
+        "num_list_users": 363,
+        "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
         "start_season": {
-          "year": 2026,
-          "season": "spring"
+          "year": 2022,
+          "season": "fall"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 62654,
+        "title": "Princess Catch! Tiniping",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1153\/152436.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1153\/152436l.jpg"
+        },
+        "num_list_users": 350,
+        "media_type": "tv",
+        "status": "currently_airing",
+        "num_episodes": 26,
+        "start_season": {
+          "year": 2025,
+          "season": "fall"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 54667,
+        "title": "Mukashibanashi no Oheya: Tsutaetai Nihon Mukashibanashi",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1384\/133998.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1384\/133998l.jpg"
+        },
+        "num_list_users": 345,
+        "media_type": "tv",
+        "status": "currently_airing",
+        "num_episodes": 0,
+        "start_season": {
+          "year": 2020,
+          "season": "summer"
         }
       }
     },
@@ -2926,11 +2946,11 @@
         "id": 63991,
         "title": "Benghuai: Xing Qiong Tiedao - Zhe Youxi Hai Neng Buneng Wanle?",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1607\/156950.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1607\/156950l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1607\/156950.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1607\/156950l.jpg"
         },
-        "mean": 6.79,
-        "num_list_users": 319,
+        "mean": 6.81,
+        "num_list_users": 340,
         "media_type": "ona",
         "status": "finished_airing",
         "num_episodes": 1,
@@ -2945,11 +2965,11 @@
         "id": 64010,
         "title": "HoYoHoYo ni Shite Ageru\u266a",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1871\/156997.webp",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1871\/156997l.webp"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1871\/156997.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1871\/156997l.jpg"
         },
-        "mean": 6.91,
-        "num_list_users": 307,
+        "mean": 6.92,
+        "num_list_users": 318,
         "media_type": "music",
         "status": "finished_airing",
         "num_episodes": 1,
@@ -2964,11 +2984,11 @@
         "id": 63915,
         "title": "Shunpatsu-teki ni Koi Shiyou",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1838\/156642.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1838\/156642l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1838\/156642.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1838\/156642l.jpg"
         },
-        "mean": 6.68,
-        "num_list_users": 280,
+        "mean": 6.72,
+        "num_list_users": 306,
         "media_type": "music",
         "status": "finished_airing",
         "num_episodes": 1,
@@ -2980,13 +3000,49 @@
     },
     {
       "node": {
+        "id": 64070,
+        "title": "Furachi",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1960\/157146.webp",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1960\/157146l.webp"
+        },
+        "num_list_users": 300,
+        "media_type": "ova",
+        "status": "not_yet_aired",
+        "num_episodes": 0,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 62933,
+        "title": "Shou 3 Ashibe QQ Goma-chan",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1899\/155697.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1899\/155697l.jpg"
+        },
+        "num_list_users": 272,
+        "media_type": "tv",
+        "status": "currently_airing",
+        "num_episodes": 0,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
         "id": 62047,
         "title": "Anmari Yakunitatanai Nihonshi",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1147\/151028.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1147\/151028l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1147\/151028.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1147\/151028l.jpg"
         },
-        "num_list_users": 265,
+        "num_list_users": 268,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -2998,31 +3054,13 @@
     },
     {
       "node": {
-        "id": 62933,
-        "title": "Shou 3 Ashibe QQ Goma-chan",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1899\/155697.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1899\/155697l.jpg"
-        },
-        "num_list_users": 263,
-        "media_type": "tv",
-        "status": "currently_airing",
-        "num_episodes": 0,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
         "id": 62447,
         "title": "Bugchon 5-lagil Ssangdungine",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1788\/151966.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1788\/151966l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1788\/151966.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1788\/151966l.jpg"
         },
-        "num_list_users": 262,
+        "num_list_users": 265,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -3034,32 +3072,14 @@
     },
     {
       "node": {
-        "id": 64102,
-        "title": "Kujira wo Yumemu",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1900\/157215.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1900\/157215l.jpg"
-        },
-        "num_list_users": 262,
-        "media_type": "movie",
-        "status": "finished_airing",
-        "num_episodes": 1,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
         "id": 64044,
         "title": "Side Quest King (KISAI remix)",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1640\/157069.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1640\/157069l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1640\/157069.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1640\/157069l.jpg"
         },
-        "mean": 6.74,
-        "num_list_users": 244,
+        "mean": 6.75,
+        "num_list_users": 256,
         "media_type": "music",
         "status": "finished_airing",
         "num_episodes": 1,
@@ -3074,10 +3094,10 @@
         "id": 56321,
         "title": "Zhong Kui",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1631\/157595.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1631\/157595l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1631\/157595.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1631\/157595l.jpg"
         },
-        "num_list_users": 223,
+        "num_list_users": 237,
         "media_type": "movie",
         "status": "not_yet_aired",
         "num_episodes": 1,
@@ -3089,31 +3109,13 @@
     },
     {
       "node": {
-        "id": 64070,
-        "title": "Furachi",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1960\/157146.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1960\/157146l.jpg"
-        },
-        "num_list_users": 215,
-        "media_type": "ova",
-        "status": "not_yet_aired",
-        "num_episodes": 0,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
         "id": 63788,
         "title": "Fei Ren Zai 3rd Season Part 2",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1649\/156255.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1649\/156255l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1649\/156255.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1649\/156255l.jpg"
         },
-        "num_list_users": 207,
+        "num_list_users": 217,
         "media_type": "ona",
         "status": "currently_airing",
         "num_episodes": 12,
@@ -3125,13 +3127,31 @@
     },
     {
       "node": {
+        "id": 64011,
+        "title": "Garou Densetsu: CotW - Wolfgang Krauser",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1865\/156998.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1865\/156998l.jpg"
+        },
+        "num_list_users": 198,
+        "media_type": "ona",
+        "status": "finished_airing",
+        "num_episodes": 1,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
         "id": 63142,
         "title": "Metal Cardbot W",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1332\/154527.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1332\/154527l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1332\/154527.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1332\/154527l.jpg"
         },
-        "num_list_users": 196,
+        "num_list_users": 197,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 26,
@@ -3146,10 +3166,10 @@
         "id": 62495,
         "title": "Nezumi-kun no Chokki (TV)",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1515\/152058.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1515\/152058l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1515\/152058.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1515\/152058l.jpg"
         },
-        "num_list_users": 190,
+        "num_list_users": 193,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -3164,10 +3184,10 @@
         "id": 62083,
         "title": "Tomica to Tom (TV)",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1521\/151096.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1521\/151096l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1521\/151096.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1521\/151096l.jpg"
         },
-        "num_list_users": 188,
+        "num_list_users": 189,
         "media_type": "tv",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -3179,31 +3199,13 @@
     },
     {
       "node": {
-        "id": 64011,
-        "title": "Garou Densetsu: CotW - Wolfgang Krauser",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1865\/156998.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1865\/156998l.jpg"
-        },
-        "num_list_users": 185,
-        "media_type": "ona",
-        "status": "finished_airing",
-        "num_episodes": 1,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
         "id": 64047,
         "title": "Kira",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1563\/157072.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1563\/157072l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1563\/157072.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1563\/157072l.jpg"
         },
-        "num_list_users": 168,
+        "num_list_users": 184,
         "media_type": "music",
         "status": "finished_airing",
         "num_episodes": 1,
@@ -3218,226 +3220,10 @@
         "id": 64034,
         "title": "Ichi Ni no San",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1026\/157054.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1026\/157054l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1026\/157054.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1026\/157054l.jpg"
         },
-        "num_list_users": 157,
-        "media_type": "music",
-        "status": "finished_airing",
-        "num_episodes": 1,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
-        "id": 63383,
-        "title": "Kumarba Season 3",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1148\/155162.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1148\/155162l.jpg"
-        },
-        "num_list_users": 141,
-        "media_type": "tv",
-        "status": "currently_airing",
-        "num_episodes": 0,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
-        "id": 63356,
-        "title": "Sore Ike! Anpanman: Pantan to Yakusoku no Hoshi",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1907\/155086.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1907\/155086l.jpg"
-        },
-        "num_list_users": 140,
-        "media_type": "movie",
-        "status": "not_yet_aired",
-        "num_episodes": 1,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
-        "id": 62382,
-        "title": "Nyanchus",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1114\/151777.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1114\/151777l.jpg"
-        },
-        "num_list_users": 136,
-        "media_type": "tv",
-        "status": "currently_airing",
-        "num_episodes": 0,
-        "start_season": {
-          "year": 2024,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
-        "id": 62875,
-        "title": "Naui Bimilchingu Haechi",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1151\/153163.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1151\/153163l.jpg"
-        },
-        "num_list_users": 135,
-        "media_type": "tv",
-        "status": "currently_airing",
-        "num_episodes": 0,
-        "start_season": {
-          "year": 2025,
-          "season": "fall"
-        }
-      }
-    },
-    {
-      "node": {
-        "id": 63762,
-        "title": "Oshiri Tantei 10th Season",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1098\/156208.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1098\/156208l.jpg"
-        },
-        "num_list_users": 133,
-        "media_type": "tv",
-        "status": "currently_airing",
-        "num_episodes": 0,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
-        "id": 58574,
-        "title": "Pumeog",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1806\/142395.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1806\/142395l.jpg"
-        },
-        "num_list_users": 124,
-        "media_type": "tv",
-        "status": "currently_airing",
-        "num_episodes": 0,
-        "start_season": {
-          "year": 2024,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
-        "id": 63975,
-        "title": "Hanaikada",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1788\/156894.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1788\/156894l.jpg"
-        },
-        "num_list_users": 112,
-        "media_type": "music",
-        "status": "finished_airing",
-        "num_episodes": 1,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
-        "id": 64020,
-        "title": "Bakumei Diver!!!!",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1075\/157017.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1075\/157017l.jpg"
-        },
-        "num_list_users": 110,
-        "media_type": "music",
-        "status": "finished_airing",
-        "num_episodes": 1,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
-        "id": 63974,
-        "title": "Dead or Love",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1843\/156859.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1843\/156859l.jpg"
-        },
-        "num_list_users": 108,
-        "media_type": "music",
-        "status": "finished_airing",
-        "num_episodes": 1,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
-        "id": 64001,
-        "title": "Be My Star",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1230\/156982.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1230\/156982l.jpg"
-        },
-        "num_list_users": 95,
-        "media_type": "music",
-        "status": "finished_airing",
-        "num_episodes": 1,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
-        "id": 63961,
-        "title": "Tokimeki no Solfege",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1167\/156801.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1167\/156801l.jpg"
-        },
-        "num_list_users": 87,
-        "media_type": "music",
-        "status": "finished_airing",
-        "num_episodes": 1,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
-        "id": 63986,
-        "title": "You & Aizu",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1146\/156921.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1146\/156921l.jpg"
-        },
-        "num_list_users": 87,
+        "num_list_users": 178,
         "media_type": "music",
         "status": "finished_airing",
         "num_episodes": 1,
@@ -3452,12 +3238,228 @@
         "id": 64146,
         "title": "Kare no Shiranai Himitsu wo Irete. The Animation",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1780\/157403.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1780\/157403l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1780\/157403.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1780\/157403l.jpg"
         },
-        "num_list_users": 81,
+        "num_list_users": 157,
         "media_type": "ova",
         "status": "not_yet_aired",
+        "num_episodes": 1,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 63383,
+        "title": "Kumarba Season 3",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1148\/155162.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1148\/155162l.jpg"
+        },
+        "num_list_users": 145,
+        "media_type": "tv",
+        "status": "currently_airing",
+        "num_episodes": 0,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 63356,
+        "title": "Sore Ike! Anpanman: Pantan to Yakusoku no Hoshi",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1907\/155086.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1907\/155086l.jpg"
+        },
+        "num_list_users": 143,
+        "media_type": "movie",
+        "status": "not_yet_aired",
+        "num_episodes": 1,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 64205,
+        "title": "Shounen to Gundam",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1894\/157822.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1894\/157822l.jpg"
+        },
+        "num_list_users": 142,
+        "media_type": "ona",
+        "status": "finished_airing",
+        "num_episodes": 1,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 62382,
+        "title": "Nyanchus",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1114\/151777.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1114\/151777l.jpg"
+        },
+        "num_list_users": 137,
+        "media_type": "tv",
+        "status": "currently_airing",
+        "num_episodes": 0,
+        "start_season": {
+          "year": 2024,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 62875,
+        "title": "Naui Bimilchingu Haechi",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1151\/153163.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1151\/153163l.jpg"
+        },
+        "num_list_users": 136,
+        "media_type": "tv",
+        "status": "currently_airing",
+        "num_episodes": 0,
+        "start_season": {
+          "year": 2025,
+          "season": "fall"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 63762,
+        "title": "Oshiri Tantei 10th Season",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1098\/156208.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1098\/156208l.jpg"
+        },
+        "num_list_users": 136,
+        "media_type": "tv",
+        "status": "currently_airing",
+        "num_episodes": 0,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 63975,
+        "title": "Hanaikada",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1788\/156894.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1788\/156894l.jpg"
+        },
+        "num_list_users": 133,
+        "media_type": "music",
+        "status": "finished_airing",
+        "num_episodes": 1,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 58574,
+        "title": "Pumeog",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1806\/142395.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1806\/142395l.jpg"
+        },
+        "num_list_users": 125,
+        "media_type": "tv",
+        "status": "currently_airing",
+        "num_episodes": 0,
+        "start_season": {
+          "year": 2024,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 64020,
+        "title": "Bakumei Diver!!!!",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1075\/157017.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1075\/157017l.jpg"
+        },
+        "num_list_users": 117,
+        "media_type": "music",
+        "status": "finished_airing",
+        "num_episodes": 1,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 63974,
+        "title": "Dead or Love",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1843\/156859.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1843\/156859l.jpg"
+        },
+        "num_list_users": 114,
+        "media_type": "music",
+        "status": "finished_airing",
+        "num_episodes": 1,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 63961,
+        "title": "Tokimeki no Solfege",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1167\/156801.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1167\/156801l.jpg"
+        },
+        "num_list_users": 97,
+        "media_type": "music",
+        "status": "finished_airing",
+        "num_episodes": 1,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 64001,
+        "title": "Be My Star",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1230\/156982.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1230\/156982l.jpg"
+        },
+        "num_list_users": 97,
+        "media_type": "music",
+        "status": "finished_airing",
         "num_episodes": 1,
         "start_season": {
           "year": 2026,
@@ -3470,10 +3472,10 @@
         "id": 64079,
         "title": "Looney Tunes Gokko",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1386\/157148.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1386\/157148l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1386\/157148.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1386\/157148l.jpg"
         },
-        "num_list_users": 78,
+        "num_list_users": 96,
         "media_type": "ona",
         "status": "currently_airing",
         "num_episodes": 0,
@@ -3485,49 +3487,13 @@
     },
     {
       "node": {
-        "id": 64060,
-        "title": "Re:Prism",
+        "id": 63986,
+        "title": "You & Aizu",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1737\/157090.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1737\/157090l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1146\/156921.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1146\/156921l.jpg"
         },
-        "num_list_users": 70,
-        "media_type": "music",
-        "status": "finished_airing",
-        "num_episodes": 1,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
-        "id": 64009,
-        "title": "Dengeki",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1723\/156996.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1723\/156996l.jpg"
-        },
-        "num_list_users": 68,
-        "media_type": "music",
-        "status": "finished_airing",
-        "num_episodes": 1,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
-        "id": 64088,
-        "title": "Flipper (2026)",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1555\/157168.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1555\/157168l.jpg"
-        },
-        "num_list_users": 63,
+        "num_list_users": 95,
         "media_type": "music",
         "status": "finished_airing",
         "num_episodes": 1,
@@ -3542,46 +3508,10 @@
         "id": 64148,
         "title": "NaN Game",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1639\/157401.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1639\/157401l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1639\/157401.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1639\/157401l.jpg"
         },
-        "num_list_users": 54,
-        "media_type": "music",
-        "status": "finished_airing",
-        "num_episodes": 1,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
-        "id": 64055,
-        "title": "Uta no Uta (2026)",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1626\/157079.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1626\/157079l.jpg"
-        },
-        "num_list_users": 53,
-        "media_type": "music",
-        "status": "finished_airing",
-        "num_episodes": 1,
-        "start_season": {
-          "year": 2026,
-          "season": "spring"
-        }
-      }
-    },
-    {
-      "node": {
-        "id": 64142,
-        "title": "Star Trail",
-        "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1423\/157386.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1423\/157386l.jpg"
-        },
-        "num_list_users": 48,
+        "num_list_users": 82,
         "media_type": "music",
         "status": "finished_airing",
         "num_episodes": 1,
@@ -3596,12 +3526,12 @@
         "id": 64181,
         "title": "Transformers: Wild King W",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1574\/157679.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1574\/157679l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1574\/157679.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1574\/157679l.jpg"
         },
-        "num_list_users": 43,
+        "num_list_users": 82,
         "media_type": "ona",
-        "status": "not_yet_aired",
+        "status": "currently_airing",
         "num_episodes": 0,
         "start_season": {
           "year": 2026,
@@ -3611,13 +3541,13 @@
     },
     {
       "node": {
-        "id": 63982,
-        "title": "Mask de Camelo",
+        "id": 64060,
+        "title": "Re:Prism",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1658\/156906.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1658\/156906l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1737\/157090.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1737\/157090l.jpg"
         },
-        "num_list_users": 41,
+        "num_list_users": 74,
         "media_type": "music",
         "status": "finished_airing",
         "num_episodes": 1,
@@ -3629,13 +3559,31 @@
     },
     {
       "node": {
-        "id": 64005,
-        "title": "Overlay",
+        "id": 64142,
+        "title": "Star Trail",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1257\/156986.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1257\/156986l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1423\/157386.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1423\/157386l.jpg"
         },
-        "num_list_users": 38,
+        "num_list_users": 73,
+        "media_type": "music",
+        "status": "finished_airing",
+        "num_episodes": 1,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 64009,
+        "title": "Dengeki",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1723\/156996.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1723\/156996l.jpg"
+        },
+        "num_list_users": 71,
         "media_type": "music",
         "status": "finished_airing",
         "num_episodes": 1,
@@ -3650,10 +3598,82 @@
         "id": 64177,
         "title": "Kin no Ono, Gin no Ono, Emerald no Ono",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1254\/157635.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1254\/157635l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1254\/157635.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1254\/157635l.jpg"
         },
-        "num_list_users": 36,
+        "num_list_users": 70,
+        "media_type": "music",
+        "status": "finished_airing",
+        "num_episodes": 1,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 64088,
+        "title": "Flipper (2026)",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1555\/157168.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1555\/157168l.jpg"
+        },
+        "num_list_users": 67,
+        "media_type": "music",
+        "status": "finished_airing",
+        "num_episodes": 1,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 64055,
+        "title": "Uta no Uta (2026)",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1626\/157079.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1626\/157079l.jpg"
+        },
+        "num_list_users": 59,
+        "media_type": "music",
+        "status": "finished_airing",
+        "num_episodes": 1,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 63982,
+        "title": "Mask de Camelo",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1658\/156906.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1658\/156906l.jpg"
+        },
+        "num_list_users": 47,
+        "media_type": "music",
+        "status": "finished_airing",
+        "num_episodes": 1,
+        "start_season": {
+          "year": 2026,
+          "season": "spring"
+        }
+      }
+    },
+    {
+      "node": {
+        "id": 64005,
+        "title": "Overlay",
+        "main_picture": {
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1257\/156986.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1257\/156986l.jpg"
+        },
+        "num_list_users": 41,
         "media_type": "music",
         "status": "finished_airing",
         "num_episodes": 1,
@@ -3668,10 +3688,10 @@
         "id": 64004,
         "title": "Manzoku desu",
         "main_picture": {
-          "medium": "https:\/\/myanimelist.net\/images\/anime\/1392\/156985.jpg",
-          "large": "https:\/\/myanimelist.net\/images\/anime\/1392\/156985l.jpg"
+          "medium": "https:\/\/cdn.myanimelist.net\/images\/anime\/1392\/156985.jpg",
+          "large": "https:\/\/cdn.myanimelist.net\/images\/anime\/1392\/156985l.jpg"
         },
-        "num_list_users": 33,
+        "num_list_users": 36,
         "media_type": "music",
         "status": "finished_airing",
         "num_episodes": 1,
